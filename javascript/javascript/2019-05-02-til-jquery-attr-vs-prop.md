@@ -1,5 +1,7 @@
 # TIL: jQuery .attr() vs .prop()
 
+Posting date: May, 2, 2019.
+
 Sometime in the past, jQuery only had an `.attr()` method for looking at and setting an element's attributes. More recently, it acquired the `.prop()` method for setting a node's properties.
 
 ## Radio Button example
@@ -20,3 +22,5 @@ $('#customer_which_billing_address_service').prop('checked', true);
 ```
 
 This visually set the proper radio button, and when the form was submitted the correct radio button value was posted.
+
+Keywords: JavaScript, jQuery, attr, prop
