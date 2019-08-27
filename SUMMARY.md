@@ -20,8 +20,8 @@
 
 ## Browsers
 
-* [Intro](browsers/README.md)
-  * [TIL: Firefox disables meta-refresh by default](browsers/2019-07-17-til-firefox-disables-meta-refresh-by-default.md)
+* [Intro](browsers/browsers/README.md)
+  * [TIL: Firefox disables meta-refresh by default](browsers/browsers/2019-07-17-til-firefox-disables-meta-refresh-by-default.md)
 
 ## emacs
 
@@ -42,3 +42,4 @@
 
 * [Intro](ruby-and-rails/ruby-and-rails/README.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
+
