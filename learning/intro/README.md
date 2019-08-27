@@ -11,3 +11,4 @@ Better questions, I feel, are:
 
 I've been finding things around the 'net that can greatly help people new to programming, new to web development, new to Rails, and so on.
 
+There are tons of self-directed (auto-didactic) sources. Here's a few I'd recommend
