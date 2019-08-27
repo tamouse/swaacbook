@@ -9,4 +9,4 @@
 
 ## learning
 
-* [Some learning resources](learning/some-learning-resources.md)
+* [Introduction](learning/intro.md)
