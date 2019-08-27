@@ -32,6 +32,7 @@
 
 * [Intro](javascript/javascript/README.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
+  * [TIL: don't put subcomponents inside a React component](javascript/javascript/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
 
 ## Miscellaneous Stuff
 
@@ -43,4 +44,3 @@
 * [Intro](ruby-and-rails/ruby-and-rails/README.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
-
