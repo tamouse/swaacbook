@@ -27,3 +27,13 @@
 
 * [Intro](javascript/README.md)
   * [Generating consistent faker values for testing](javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
+
+## Miscellaneous Stuff
+
+* [Intro](misc/README.md)
+  * [Programmaer's Primary Language (joke)](misc/2019-08-01-programmer-s-primary-language.md)
+
+## Ruby and Rails
+
+* [Intro](ruby-and-rails/README.md)
+  * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
