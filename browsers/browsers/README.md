@@ -1,4 +1,8 @@
-# Intro
+---
+description: Info about various browsers and their quirks
+---
+
+# Browsers
 
 In web-dev, the browser is the place where we deliver content to users.
 

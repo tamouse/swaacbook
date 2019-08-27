@@ -1,4 +1,8 @@
-# Intro
+---
+description: 'The language people love, and the web application framework people hate'
+---
+
+# Notes on Ruby and Rails
 
 Ruby and Ruby on Rails have been my primary practice area for the past 12 years or so, since 2006.
 

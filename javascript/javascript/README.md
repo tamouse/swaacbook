@@ -1,4 +1,8 @@
-# Intro
+---
+description: The browser interactivity language that grew up to be a server language
+---
+
+# Notes on JavaScript
 
 I started writing JavaScript a long time ago when it first came out. I learned jQuery along the way. A few years ago, I started attending courses at [Frontend Masters](https://frontendmasters.com/) taking all sorts of courses on different libraries, frameworks, and so on.
 
