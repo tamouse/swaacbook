@@ -20,8 +20,10 @@
 
 ## emacs
 
-* [Resetting emacs colours after working with guard](emacs/resetting-emacs-colours-after-working-with-guard.md)
+* [My notes on Emacs](emacs/README.md)
+  * [Resetting emacs colours after working with guard](emacs/resetting-emacs-colours-after-working-with-guard.md)
 
 ## JavaScript
 
-* [Generating consistent faker values for testing](javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
+* [Intro](javascript/README.md)
+  * [Generating consistent faker values for testing](javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
