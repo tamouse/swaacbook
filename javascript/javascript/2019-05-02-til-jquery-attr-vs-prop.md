@@ -1,4 +1,4 @@
-# TIL: jQuery .attr() vs .prop()
+# TIL: jQuery attr vs. prop
 
 Posting date: May, 2, 2019.
 
@@ -24,3 +24,4 @@ $('#customer_which_billing_address_service').prop('checked', true);
 This visually set the proper radio button, and when the form was submitted the correct radio button value was posted.
 
 Keywords: JavaScript, jQuery, attr, prop
+

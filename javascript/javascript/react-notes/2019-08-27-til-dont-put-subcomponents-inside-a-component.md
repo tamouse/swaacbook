@@ -75,3 +75,4 @@ const SubComp1 = ({ dance }) => (
 This leaves the `MainComp` as the first function in the file. If you're going to use the "Good" form, you might be better moving `SubComp1` to another file and import it.
 
 Keywords: JavaScript, React, subcomponents
+

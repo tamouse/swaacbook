@@ -1,6 +1,4 @@
-# Resetting Emacs colours after working with Guard
-
-
+# Resetting emacs colours after working with guard
 
 published date: 2017-04-29 16:01
 
@@ -12,7 +10,7 @@ I found something like this and wrote it for my needs:
 
 [https://gist.github.com/tamouse/4eaa00af7b415fc48ac03bcb97a4c2ac](https://gist.github.com/tamouse/4eaa00af7b415fc48ac03bcb97a4c2ac)
 
-
 I save the script in my `$HOME/bin/` folder and can call it from the command line to clean up my emacs mode line.
 
 keywords: emacs, guard
+

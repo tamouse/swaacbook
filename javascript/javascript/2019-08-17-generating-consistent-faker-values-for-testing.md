@@ -2,7 +2,6 @@
 
 Post date: 2018-08-17
 
-
 So this is good to know. I hadn't seen this before.
 
 When using [faker.js](https://github.com/Marak/Faker.js), you can generate the exact same data each time by setting the **seed**:
@@ -22,3 +21,4 @@ export const testData = {
 Which would give the same data each time.
 
 Keywords: JavaScript, faker, test data, testing
+
