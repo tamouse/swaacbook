@@ -1,6 +1,6 @@
 # Programmaer's Primary Language \(joke\)
 
-**Profanity**
+### _**Profanity**_  🤣 
 
 So that's a really old joke, and I'd thought I'd written something about it long ago.
 
