@@ -3,10 +3,6 @@
 * [Intro to SWAAC](README.md)
 * [Colophon](colophon.md)
 
-## emacs
-
-* [Resetting emacs colours after working with guard](emacs/resetting-emacs-colours-after-working-with-guard.md)
-
 ## learning
 
 * [Introduction](learning/intro/README.md)
@@ -21,3 +17,11 @@
 * [Web Sites](learning/web-sites/README.md)
   * [on-demand learning](learning/web-sites/on-demand.md)
   * [podcasts](learning/web-sites/podcasts.md)
+
+## emacs
+
+* [Resetting emacs colours after working with guard](emacs/resetting-emacs-colours-after-working-with-guard.md)
+
+## JavaScript
+
+* [Generating consistent faker values for testing](javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
