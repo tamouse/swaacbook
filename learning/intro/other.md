@@ -1,4 +1,4 @@
-# Other learning resources
+# Some other learning organizations
 
 ## Bootcamps
 
@@ -7,3 +7,4 @@ These are becoming quite popular, if expensive, but they seem to provide what's 
 ## Conferences and Meetups
 
 Going to conferences, hanging out, meeting like-minded people, and generally instilling one's self into the millieau of the Ruby and Rails communities can be extremely rewarding. Even if you're not the conference type, make an effort to find people in your area to talk to.
+

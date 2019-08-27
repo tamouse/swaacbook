@@ -1,4 +1,4 @@
-# Podcasts
+# podcasts
 
 I am not such a big fan of podcasts, but that has more to do with my personal learning style. Nevertheless, there are some great pocasts out there.
 
@@ -12,4 +12,5 @@ A handful of front end developers, including Brian Holt, Jem Young, Ryan Burgess
 
 ## [**CodeNewbies**](http://www.codenewbie.org/)
 
-started off as a twitter chat, and grew into a thing, CodeNewbies offers podcasts on topics that range far and wide. Recent topics have included Scrum/Agile methods, maintaining your mental health while programming, interviews with folks who have created significant web sites (Gina Trapani of LifeHacker!!), mobile, databases, single-page apps, you name it. One of the best aspects I can see directly is that this is a *very* open, diverse collaboration.
+started off as a twitter chat, and grew into a thing, CodeNewbies offers podcasts on topics that range far and wide. Recent topics have included Scrum/Agile methods, maintaining your mental health while programming, interviews with folks who have created significant web sites \(Gina Trapani of LifeHacker!!\), mobile, databases, single-page apps, you name it. One of the best aspects I can see directly is that this is a _very_ open, diverse collaboration.
+
