@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Intro to SWAAC](README.md)
+* [Colophon](colophon.md)
 
