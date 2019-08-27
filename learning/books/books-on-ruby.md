@@ -1,6 +1,6 @@
 # Books on Ruby
 
-If you can only afford one book to start with, go with the *Well-Grounded Rubyist* as it has to most introductory material.
+If you can only afford one book to start with, go with the *Well-Grounded Rubyist* as it has the most introductory material.
 
 Otherwise, get them **all**.
 
