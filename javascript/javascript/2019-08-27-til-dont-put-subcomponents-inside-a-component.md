@@ -1,4 +1,4 @@
-# TIL: Don't put subcomponents inside a React component
+# TIL: don't put subcomponents inside a React component
 
 TIL: Don't define react components in another react component -- they'll get unmounted and remounted every time.
 
@@ -71,3 +71,4 @@ const SubComp1 = ({ dance }) => (
 ```
 
 This leaves the `MainComp` as the first function in the file. If you're going to use the "Good" form, you might be better moving `SubComp1` to another file and import it.
+
