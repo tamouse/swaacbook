@@ -38,12 +38,12 @@
 
 ## Miscellaneous Stuff
 
-* [Miscelanelous Stuff](miscellaneous-stuff/misc/README.md)
+* [Miscellaneous Stuff](miscellaneous-stuff/misc/README.md)
   * [Programmaer's Primary Language \(joke\)](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
+  * [Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
 
 ## Ruby and Rails
 
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
-
