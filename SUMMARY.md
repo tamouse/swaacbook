@@ -5,8 +5,10 @@
 
 ## emacs
 
-* [Resetting emacs colours after working with guard](emacs/2017-04-29-resetting-emacs-colours-after-working-with-guard.markdown)
+* [Resetting emacs colours after working with guard](emacs/resetting-emacs-colours-after-working-with-guard.md)
 
 ## learning
 
 * [Introduction](learning/intro.md)
+* [Books about Programming](learning/books-about-programming.md)
+
