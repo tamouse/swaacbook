@@ -44,6 +44,7 @@
     * [Serving Static Files with Storybook](javascript/javascript/storybook/2018-11-06-serving-static-files-in-storybook.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
+  * [Pollyfill for Custom Event](javascript/javascript/2018-12-01-polyfill-for-custom-event.md)
 
 ## Miscellaneous Stuff
 
