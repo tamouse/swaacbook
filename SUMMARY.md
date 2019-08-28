@@ -28,6 +28,10 @@
 * [My notes on Emacs](emacs/emacs/README.md)
   * [Resetting emacs colours after working with guard](emacs/emacs/resetting-emacs-colours-after-working-with-guard.md)
 
+## HTML &amp; CSS
+
+* [Intro](html-and-css/intro/README.md)
+
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
@@ -41,6 +45,7 @@
 * [Miscellaneous Stuff](miscellaneous-stuff/misc/README.md)
   * [Programmaer's Primary Language \(joke\)](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
   * [Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
+  * [Link: Your software is never perfect](miscellaneous-stuff/misc/your-software-is-never-perfect.md)
 
 ## Ruby and Rails
 
