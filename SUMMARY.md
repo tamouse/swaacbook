@@ -52,6 +52,7 @@
   * [Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
   * [Link: Your software is never perfect](miscellaneous-stuff/misc/your-software-is-never-perfect.md)
   * [Notes on Testing](miscellaneous-stuff/testing/README.md)
+    * [Thoughts on Testing](miscellaneous-stuff/testing/2018-11-29-thoughts-on-writing-good-tests.md)
 
 ## Ruby and Rails
 
