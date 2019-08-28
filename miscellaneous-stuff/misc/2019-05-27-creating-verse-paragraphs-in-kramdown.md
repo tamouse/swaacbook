@@ -1,10 +1,10 @@
-# Creating verse in kramdown
+# Creating verse with kramdown
 
 Post date: 2019-05-17
 
 In the past, when I've wanted to create a verse, perhaps in a blockquote I've resorted to using `<br>` on every line, which is tedious:
 
-```
+```text
 > Listen, little children, all,<br>
 > Listen to our earnest call:<br>
 > You are very young, 'tis true,<br>
@@ -17,7 +17,7 @@ In the past, when I've wanted to create a verse, perhaps in a blockquote I've re
 
 In `kramdown`, the defauflt markdown processor in [Jekyll](https://jekyllrb.com) these days, there's an easier way:
 
-```
+```text
 > Listen, little children, all,
 > Listen to our earnest call:
 > You are very young, 'tis true,
@@ -29,6 +29,7 @@ In `kramdown`, the defauflt markdown processor in [Jekyll](https://jekyllrb.com)
 {: style="white-space: pre-line"}
 ```
 
-See: [https://kramdown.gettalong.org/quickref.html#block-attributes](https://kramdown.gettalong.org/quickref.html#block-attributes)
+See: [https://kramdown.gettalong.org/quickref.html\#block-attributes](https://kramdown.gettalong.org/quickref.html#block-attributes)
 
 Keywords: kramdown, markdown, jekyll, verse
+

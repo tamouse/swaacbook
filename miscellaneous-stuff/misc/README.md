@@ -2,7 +2,7 @@
 description: Ye old junk drawer
 ---
 
-# Miscelanelous Stuff
+# Miscellaneous Stuff
 
 Some humour, some trivia, other stuff
 
