@@ -8,8 +8,6 @@ Someone asked this question on the WWCodeTC \#learning-to-code Slack channel the
 
 My response:
 
->
->
 > everyone says testing is Super Important, but no one seems to definitively answer that question. the obvious answer is "write a lot of bad tests" but that is oh so dismal.
 >
 > the stuff i learned from, ages and ages ago, is probably no longer in print, but look for these authors:
@@ -34,5 +32,7 @@ My response:
 > -   how can i break this?
 >
 > another way to approach it is from the test driven side, and write tests that describe exactly what the feature does, does not do, responds to random input, responds to incorrect input, etc, so you completely spec the feature before any feature code is written.
+
+I completely left off the intrepid and amazing [Kent C. Dodds](https://kentcdodds.com), author, teacher, developer, tester, and generally all-around nice guy. I do mention him a fair bit in the [learning](../../learning/learning/README.md) section.
 
 - keywords: testing, learning
