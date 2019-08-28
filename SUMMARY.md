@@ -31,12 +31,17 @@
 ## HTML &amp; CSS
 
 * [Intro](html-and-css/intro/README.md)
+  * [147 color names](html-and-css/html-and-css/147-colors-grid-css-color-names.md)
+  * [Link: CSS Frameworks vs Grid](html-and-css/html-and-css/2018-11-14-link-css-frameworks-vs-grid.md)
+  * [TIL: Input File Has `accepts` Attribute](html-and-css/html-and-css/2018-11-20-til-input-file-has-accepts-attribute.md)
 
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
   * [React notes](javascript/javascript/react-notes/README.md)
     * [TIL: don't put subcomponents inside a React component](javascript/javascript/react-notes/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
+  * [Notes on Storybook](storybook/storybook/README.md)
+    * [Serving Static Files with Storybook](javascript/javascript/storybook/2018-11-06-serving-static-files-in-storybook.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
 
@@ -52,3 +57,7 @@
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
+j
+## Testing
+
+* [Notes on Testing](testing/testing/README.md)
