@@ -1,0 +1,27 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: how-to-reset-ios-simulator
+#+DATE: <2018-02-15 Thu>
+#+AUTHOR: Tamara Temple
+#+EMAIL: tamouse@gmail.com
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+#+KEYWORDS: ios, simulator, development, reset
+
+* How to reset iOS simulator
+
+I ran into an issue recently where I was trying to debug a problem in a project, but had a problem accessing the right data server since I was logged into a local development server, and really needed to get back to the "new app" state.
+
+I searched for "reset xcode simulator" via DDG and first hit came up with <https://stackoverflow.com/questions/16195859/reset-ios-simulator-application-data-to-run-app-for-first-time#16195931> which gave me an answer.
+
+The command line versions work, but it can be a pain to get the UDID for the simulator. Doing it from the running simulator was easier, but of course the menu options are different than discussed in the stackoverflow answer.
+
+I found it on the Simulator (Version 10.0 (SimulatorApp-835.2.1) seen in the following screen shot:
+
+#+CAPTION: Reset IOS Simulator Screenshot
+[[../../../images/reset-ios-simulator.png]]
