@@ -1,4 +1,8 @@
-# Notes on Design
+---
+description: 'desktops, laptops, macos, linux, etc'
+---
+
+# notes about hardware and operating systems
 
 ## Can I become who I want to be?
 

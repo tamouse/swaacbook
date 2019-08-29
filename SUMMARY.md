@@ -23,16 +23,22 @@
 * [Browsers](browsers/browsers/README.md)
   * [TIL: Firefox disables meta-refresh by default](browsers/browsers/2019-07-17-til-firefox-disables-meta-refresh-by-default.md)
 
-## emacs
+## Editors
 
-* [My notes on Emacs](emacs/emacs/README.md)
-  * [Resetting emacs colours after working with guard](emacs/emacs/resetting-emacs-colours-after-working-with-guard.md)
+* [My notes on Emacs](editors/emacs/README.md)
+  * [Emacs Org Mode](editors/emacs/emacs-org-mode.md)
+  * [Resetting emacs colours after working with guard](editors/emacs/resetting-emacs-colours-after-working-with-guard.md)
+* [Notes about Editors](editors/notes-about-editors.md)
 
 ## HTML & CSS
 
 * [Notes on HTML & CSS](html-and-css/intro/README.md)
   * [147 color names](html-and-css/intro/147-colors-grid-css-color-names.md)
   * [Link: CSS Frameworks vs Grid](html-and-css/intro/2018-11-14-link-css-frameworks-vs-grid.md)
+  * [Clearfix \(CSS floats\)](html-and-css/intro/clearfix-css-floats.md)
+  * [Creating Non-Rectangular Layouts With CSS Shapes](html-and-css/intro/creating-non-rectangular-layouts-with-css-shapes.md)
+  * [CSS Centering a List Horizontally and Vertically](html-and-css/intro/css-centering-a-list-horizontally-and-vertically.md)
+  * [Drop Caps in CSS](html-and-css/intro/drop-caps-in-css.md)
   * [TIL: Input File Has accepts Attribute](html-and-css/intro/2018-11-20-til-input-file-has-accepts-attribute.md)
 
 ## JavaScript
@@ -48,9 +54,16 @@
 ## Miscellaneous Stuff
 
 * [Miscellaneous Stuff](miscellaneous-stuff/misc/README.md)
+  * [Documenting Regular Expressions](miscellaneous-stuff/misc/documenting-regular-expressions.md)
+  * [On-line Tool: Web Sequence Diagrammer](miscellaneous-stuff/misc/on-line-tool-web-sequence-diagrammer.md)
+  * [First thing I learned about working with Elixir](miscellaneous-stuff/misc/first-thing-i-learned-about-working-with-elixir.md)
   * [Programmaer's Primary Language \(joke\)](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
+  * [Career Advice](miscellaneous-stuff/misc/career-advice.md)
   * [Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
   * [Link: Your software is never perfect](miscellaneous-stuff/misc/your-software-is-never-perfect.md)
+  * [Baratunde Thurston Explains Web Encryption](miscellaneous-stuff/misc/baratunde-thurston-explains-web-encryption.md)
+  * [code as literature, software dev as communication](miscellaneous-stuff/misc/code-as-literature-software-dev-as-communication.md)
+  * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
     * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
 
@@ -59,6 +72,8 @@
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
   * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
   * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
+  * [first vs. take](ruby-and-rails/ruby-and-rails/first-vs.-take.md)
+  * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
 
@@ -74,13 +89,10 @@
 
 * [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc.md)
 
-## Editors
-
-* [Notes about Editors](editors/notes-about-editors.md)
-
 ## Design
 
 * [Notes on Design](design/notes-on-design.md)
+* [Dieter Rams' 10 Principles For Good Design](design/dieter-rams-10-principles-for-good-design.md)
 
 ## Systems, Ops, and DevOps
 
@@ -88,7 +100,9 @@
 
 ## Hardware
 
-* [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems.md)
+* [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems/README.md)
+  * [Fix: Make Mac key repeat work](hardware/notes-about-hardware-and-operating-systems/fix-make-mac-key-repeat-work.md)
+  * [Changing the Location for Screencaptures on macOS](hardware/notes-about-hardware-and-operating-systems/changing-the-location-for-screencaptures-on-macos.md)
 
 ## Command line fu
 
