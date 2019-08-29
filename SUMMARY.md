@@ -45,6 +45,7 @@
 
 * [Notes on JavaScript](javascript/javascript/README.md)
   * [React notes](javascript/javascript/react-notes/README.md)
+    * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
     * [TIL: don't put subcomponents inside a React component](javascript/javascript/react-notes/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
   * [Notes on Storybook](javascript/javascript/notes-on-storybook/README.md)
     * [Serving Static Files with Storybook](javascript/javascript/notes-on-storybook/2018-11-06-serving-static-files-in-storybook.md)
