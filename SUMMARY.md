@@ -28,7 +28,8 @@
 * [My notes on Emacs](editors/emacs/README.md)
   * [Emacs Org Mode](editors/emacs/emacs-org-mode.md)
   * [Resetting emacs colours after working with guard](editors/emacs/resetting-emacs-colours-after-working-with-guard.md)
-* [Notes about Editors](editors/notes-about-editors.md)
+* [Notes about Editors](editors/notes-about-editors/README.md)
+  * [RubyMine and WebStorm](editors/notes-about-editors/rubymine-and-webstorm.md)
 
 ## HTML & CSS
 
@@ -51,6 +52,7 @@
     * [Serving Static Files with Storybook](javascript/javascript/notes-on-storybook/2018-11-06-serving-static-files-in-storybook.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
+* [JavaScript exercises and examples](javascript/javascript-exercises-and-examples.md)
 
 ## Miscellaneous Stuff
 
@@ -80,7 +82,8 @@
 
 ## GraphQL
 
-* [Notes about GraphQL](graphql/notes-about-graphql.md)
+* [Notes about GraphQL](graphql/notes-about-graphql/README.md)
+  * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
 
 ## Databases
 
