@@ -46,6 +46,7 @@
 
 * [Notes on JavaScript](javascript/javascript/README.md)
   * [React notes](javascript/javascript/react-notes/README.md)
+    * [Link: Dan Abramov: A Complete Guide to useEffect](javascript/javascript/react-notes/link-dan-abramov-a-complete-guide-to-useeffect.md)
     * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
     * [TIL: don't put subcomponents inside a React component](javascript/javascript/react-notes/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
   * [Notes on Storybook](javascript/javascript/notes-on-storybook/README.md)
