@@ -32,6 +32,11 @@
 * [Notes about Editors](editors/notes-about-editors/README.md)
   * [RubyMine and WebStorm](editors/notes-about-editors/rubymine-and-webstorm.md)
 
+## Design
+
+* [Notes on Design](design/notes-on-design.md)
+* [Dieter Rams' 10 Principles For Good Design](design/dieter-rams-10-principles-for-good-design.md)
+
 ## HTML & CSS
 
 * [Notes on HTML & CSS](html-and-css/intro/README.md)
@@ -55,7 +60,44 @@
     * [Serving Static Files with Storybook](javascript/javascript/notes-on-storybook/2018-11-06-serving-static-files-in-storybook.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
-* [JavaScript exercises and examples](javascript/javascript-exercises-and-examples.md)
+  * [JavaScript exercises and examples](javascript/javascript/javascript-exercises-and-examples.md)
+
+## Ruby and Rails
+
+* [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
+  * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
+  * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
+  * [first vs. take](ruby-and-rails/ruby-and-rails/first-vs.-take.md)
+  * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
+  * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
+  * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
+
+## Databases
+
+* [Notes about database systems](databases/notes-about-database-systems.md)
+
+## GraphQL
+
+* [Notes about GraphQL](graphql/notes-about-graphql/README.md)
+  * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
+
+## Git and Friends
+
+* [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc.md)
+
+## Systems, Ops, and DevOps
+
+* [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops.md)
+
+## Hardware
+
+* [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems/README.md)
+  * [Fix: Make Mac key repeat work](hardware/notes-about-hardware-and-operating-systems/fix-make-mac-key-repeat-work.md)
+  * [Changing the Location for Screencaptures on macOS](hardware/notes-about-hardware-and-operating-systems/changing-the-location-for-screencaptures-on-macos.md)
+
+## Command line fu
+
+* [Notes on using the command line, terminals, shell scripts](command-line-fu/notes-on-using-the-command-line-terminals-shell-scripts.md)
 
 ## Miscellaneous Stuff
 
@@ -72,46 +114,4 @@
   * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
     * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
-
-## Ruby and Rails
-
-* [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
-  * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
-  * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
-  * [first vs. take](ruby-and-rails/ruby-and-rails/first-vs.-take.md)
-  * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
-  * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
-  * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
-
-## GraphQL
-
-* [Notes about GraphQL](graphql/notes-about-graphql/README.md)
-  * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
-
-## Databases
-
-* [Notes about database systems](databases/notes-about-database-systems.md)
-
-## Git and Friends
-
-* [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc.md)
-
-## Design
-
-* [Notes on Design](design/notes-on-design.md)
-* [Dieter Rams' 10 Principles For Good Design](design/dieter-rams-10-principles-for-good-design.md)
-
-## Systems, Ops, and DevOps
-
-* [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops.md)
-
-## Hardware
-
-* [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems/README.md)
-  * [Fix: Make Mac key repeat work](hardware/notes-about-hardware-and-operating-systems/fix-make-mac-key-repeat-work.md)
-  * [Changing the Location for Screencaptures on macOS](hardware/notes-about-hardware-and-operating-systems/changing-the-location-for-screencaptures-on-macos.md)
-
-## Command line fu
-
-* [Notes on using the command line, terminals, shell scripts](command-line-fu/notes-on-using-the-command-line-terminals-shell-scripts.md)
 

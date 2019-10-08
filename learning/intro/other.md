@@ -8,3 +8,5 @@ These are becoming quite popular, if expensive, but they seem to provide what's 
 
 Going to conferences, hanging out, meeting like-minded people, and generally instilling one's self into the millieau of the Ruby and Rails communities can be extremely rewarding. Even if you're not the conference type, make an effort to find people in your area to talk to.
 
+Meetup.com seems to be the place for tech groups to organize. Join and you can specify topics and search for groups in your area.
+
