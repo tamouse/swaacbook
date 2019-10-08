@@ -30,9 +30,9 @@ A book with a purpose, that isn't a how to, so much as a how to think. It's a co
 
 ### **Programming Proverbs** by Henry F. Ledgard
 
-This book, published in 1975, and a subsequent volume dedicated to the Pascal language published in 1979, were essential to me back when I was in university learning computer science. They're out of print now, so I'm starting a blog series covering them. [Programming Proverbs: Introduction](%7B%7Bsite.baseurl%7D%7D%7B%%20link%20_posts/2017-07-23-pp-introduction.markdown%20%%7D)
+This book, published in 1975, and a subsequent volume dedicated to the Pascal language published in 1979, were essential to me back when I was in university learning computer science. They're out of print now but sometimes they can be found on amazon marketplace or ebay.
 
 ### [**Systems Design Heuristics**](https://leanpub.com/systemdesignheuristics) - by the late, great Jerry Wienberg.
 
-Jerry was a friend as well as a teacher. I miss him enourmously. This book is full of his thoughts and writings on how one should do systems design. As the title implies, there are no rules, but there are some heuristics one can apply to the overall design and architecture of systems.
+Jerry was a friend as well as a teacher. I miss him enormously. This book is full of his thoughts and writings on how one should do systems design. As the title implies, there are no rules, but there are some heuristics one can apply to the overall design and architecture of systems.
 

@@ -6,6 +6,7 @@
 ## learning
 
 * [Introduction](learning/intro/README.md)
+  * [Learning](learning/intro/learning.md)
   * [Some other learning organizations](learning/intro/other.md)
 * [Books](learning/books/README.md)
   * [Books about Programming](learning/books/books-about-programming.md)
