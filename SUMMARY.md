@@ -34,6 +34,7 @@
 ## HTML & CSS
 
 * [Notes on HTML & CSS](html-and-css/intro/README.md)
+  * [Problems with target=\_blank in HTML](html-and-css/intro/problems-with-target-_blank-in-html.md)
   * [147 color names](html-and-css/intro/147-colors-grid-css-color-names.md)
   * [Link: CSS Frameworks vs Grid](html-and-css/intro/2018-11-14-link-css-frameworks-vs-grid.md)
   * [Clearfix \(CSS floats\)](html-and-css/intro/clearfix-css-floats.md)
