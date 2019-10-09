@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Intro to SWAAC](README.md)
-* [Colophon](colophon.md)
+* [SWAAC - Software as a Craft](README.md)
+  * [Intro to SWAAC](intro.md)
+  * [Colophon](colophon.md)
 
 ## learning
 
