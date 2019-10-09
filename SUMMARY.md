@@ -84,7 +84,8 @@
 
 ## Git and Friends
 
-* [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc.md)
+* [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc/README.md)
+  * [Git](git-and-friends/notes-on-git-github-gitlab-etc/git.md)
 
 ## Systems, Ops, and DevOps
 
@@ -116,4 +117,3 @@
   * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
     * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
-
