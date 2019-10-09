@@ -1,6 +1,6 @@
-# Introduction
+# Introduction to Learning section
 
-Many people ask me "How do I learn to program?" and "What book\(!\) should I read to learn Rails?".
+Many people ask me "How do I learn to program?" and "What book(!) should I read to learn Rails?".
 
 These are legitimate questions, but they aren't necessarily the right questions to ask in order to begin the journey of becoming a software craftsperson.
 
@@ -11,5 +11,4 @@ Better questions, I feel, are:
 
 I've been finding things around the 'net that can greatly help people new to programming, new to web development, new to Rails, and so on.
 
-There are tons of self-directed \(auto-didactic\) sources. Here's a few I'd recommend
-
+There are tons of self-directed (auto-didactic) sources. Here's a few I'd recommend.

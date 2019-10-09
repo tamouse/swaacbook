@@ -1,6 +1,6 @@
-# Web Sites
+# Web Sites for Learning
 
-These are some of the web sites I like for learning.
+These are some of the web sites people tell me they like use for learning. This is a nearly impossible list to keep up with, though, as new sites spring up all the time.
 
 This is just going to be a list of sites I've found or been pointed at for helping people learn to program. These are most definitely biased towards Ruby and Rails, as that is my current area of concentration, and generate the most requests that come to me.
 
@@ -16,7 +16,7 @@ Dave Thomas's site that lists a great set of coding exercises. You can work thes
 
 a site devoted to helping people learn and think deeply about writing excellent code. It has projects you implement and then get feedback on from others, and allows you to give feedback as well.
 
-### \*\*\*\*[**Edabit.com**](https://edabit.com/)\*\*\*\*
+### [**Edabit.com**](https://edabit.com/)
 
 Purported to be "The fastest way to learn", Edabit provides another in-browser experience for learning programming languages. Read this [article](https://dev.to/edabit/the-best-way-to-learn-how-to-code-14lk) on [dev.to](https://dev.to/) for an introduction to their theory of learning.
 
@@ -77,4 +77,3 @@ the most often recommended site to learn how to create web applications in Rails
 ### [**Ruby Koans**](http://www.rubykoans.com/)
 
 "koans" are an Eastern discipline tradition: small, repeated exercises to learn skills and build them into your muscles and memory, so you can use them without thinking consciously about them. In this sense, the ruby koans are small exercises intended to lead you on the way to learning ruby. I can't say if they're that successful, but some people definitely enjoy this progressive way of learning. The ruby koans definitely guide you in the way of test-first development, which is a beneficial practice for all to know.
-
