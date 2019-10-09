@@ -2,8 +2,6 @@
 description: Info about various browsers and their quirks
 ---
 
-# Browsers
-
 In web-dev, the browser is the place where we deliver content to users.
 
 Browsers all have various quirks, implementation choices, and other weird things that make this an ever-shifting and difficult-to-pin-down arena.

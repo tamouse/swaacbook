@@ -2,7 +2,7 @@
 description: 'zsh has been available, now it''s the default. I guess it''s time.'
 ---
 
-# MacOS Catalina switched default shell to zsh
+## MacOS Catalina switched default shell to zsh ##
 
 A collection of things I've found, hopefully helpful in switching.
 
@@ -127,4 +127,3 @@ remove blank lines from history
 ```text
 setopt HIST_REDUCE_BLANKS
 ```
-

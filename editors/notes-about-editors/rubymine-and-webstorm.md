@@ -1,12 +1,9 @@
 # RubyMine and WebStorm
 
-## Can I become who I want to be?
+Two editor from [jetbrains.com](https://www.jetbrains.com) which are pretty great IDEs with nearly everything built in for working in either ruby (RubyMine) or javascript (WebStorm).
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+- [RubyMine](https://www.jetbrains.com/ruby/?fromMenu) is really a good everyday editor, as well as one of the absolute **best** tools for spelunking an old Rails project repository (if you've just come onto a project, for example). It's indexing and search capabilities are unsurpassed.
 
-## Have you had a chance to answer the previous question?
+- [WebStorm](https://www.jetbrains.com/webstorm/) for creating client-based web apps and web sites, WebStorm is as much a work-horse in the JS, HTML, and CSS world as RubyMine is for Ruby and Rails.
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
-
+Although JetBrains produces an editor theoretically capable of combining these too, having them as dedicated IDEs just can't be beat. There are problems when trying to use them on the same repo, however; the `.idea/` directory has conflicts when swapping the editors. I haven't found a really good way to deal with this.

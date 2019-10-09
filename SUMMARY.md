@@ -5,7 +5,7 @@
 
 ## learning
 
-* [Introduction](learning/intro/README.md)
+* [Introduction to Learning Section](learning/intro/README.md)
   * [Learning](learning/intro/learning.md)
   * [Some other learning organizations](learning/intro/other.md)
 * [Books](learning/books/README.md)
@@ -21,14 +21,14 @@
 
 ## Browsers
 
-* [Browsers](browsers/browsers/README.md)
-  * [Introduction](browsers/browsers/introduction.md)
+* [Notes on Browsers](browsers/browsers/README.md)
+  * [Introduction to notes on browsers](browsers/browsers/introduction.md)
   * [TIL: Firefox disables meta-refresh by default](browsers/browsers/2019-07-17-til-firefox-disables-meta-refresh-by-default.md)
 
 ## Editors
 
 * [My notes on Emacs](editors/emacs/README.md)
-  * [Introduction](editors/emacs/intro.md)
+  * [Introduction to notes on Emacs](editors/emacs/intro.md)
   * [Emacs Org Mode](editors/emacs/emacs-org-mode.md)
   * [Resetting emacs colours after working with guard](editors/emacs/resetting-emacs-colours-after-working-with-guard.md)
 * [Notes about Editors](editors/notes-about-editors/README.md)
@@ -55,7 +55,7 @@
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
-  * [Introduction](javascript/javascript/intro.md)
+  * [Introduction to notes on JavaScript](javascript/javascript/intro.md)
   * [React notes](javascript/javascript/react-notes/README.md)
     * [Link: Dan Abramov: A Complete Guide to useEffect](javascript/javascript/react-notes/link-dan-abramov-a-complete-guide-to-useeffect.md)
     * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
@@ -70,12 +70,12 @@
 ## Ruby and Rails
 
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
-  * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
-  * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
   * [first vs. take](ruby-and-rails/ruby-and-rails/first-vs.-take.md)
   * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
+  * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
+  * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
 
 ## Databases
 
