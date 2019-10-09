@@ -41,7 +41,7 @@ before_action :export_upload_pass_list
 # ...
 
 def export_upload_pass_list
-  gon.push(upload_pass_list: App::CONSTANTS::UPLOAD_PASS_LIST)
+  gon.push(upload_pass_list: UPLOAD_PASS_LIST)
 end
 ```
 
