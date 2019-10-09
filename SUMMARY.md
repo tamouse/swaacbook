@@ -34,8 +34,8 @@
 
 ## Design
 
-* [Notes on Design](design/notes-on-design.md)
-* [Dieter Rams' 10 Principles For Good Design](design/dieter-rams-10-principles-for-good-design.md)
+* [Notes on Design](design/notes-on-design/README.md)
+  * [Dieter Rams' 10 Principles For Good Design](design/notes-on-design/dieter-rams-10-principles-for-good-design.md)
 
 ## HTML & CSS
 
