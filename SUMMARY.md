@@ -22,6 +22,7 @@
 ## Browsers
 
 * [Browsers](browsers/browsers/README.md)
+  * [Introduction](browsers/browsers/introduction.md)
   * [TIL: Firefox disables meta-refresh by default](browsers/browsers/2019-07-17-til-firefox-disables-meta-refresh-by-default.md)
 
 ## Editors
