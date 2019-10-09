@@ -74,7 +74,7 @@
 
 ## Databases
 
-* [Notes about database systems](databases/notes-about-database-systems.md)
+* [Notes about database systems](databases/notes-about-database-systems/README.md)
 
 ## GraphQL
 
@@ -115,4 +115,3 @@
   * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
     * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
-
