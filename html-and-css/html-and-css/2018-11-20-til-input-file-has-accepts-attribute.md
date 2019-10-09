@@ -56,8 +56,8 @@ function FileUploadWidget(props) {
     <input
       type="file"
       name="data"
-      accepts={this.accepts_list()}
-      onChange={this.fileChange}
+      accepts={accepts_list()}
+      onChange={props.fileChange}
     />
   )
 }
