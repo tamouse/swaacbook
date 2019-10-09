@@ -22,7 +22,7 @@ For our purposes here, only 1 and 2 are of interest.
 
 For this form row, the code under test looks like this:
 
-```text
+```javascript
 const ServiceLocation = ({ name, value, initialValue, onSelectParent }) => {
   const [serviceArea, setServiceArea] = useState(!!value)
   const toggleCheckbox = () => {
@@ -59,7 +59,7 @@ Placing the `data-testid` “service-area-checkbox” on the `Checkbox` componen
 
 The spec for this looks like:
 
-```text
+```javascript
 it("displays the parent lookup field when the service location checkbox becomes checked", async () => {
   const LOOKUP_WRAPPER_TESTID = "customer-lookup-wrapper"
   const props = {
@@ -96,7 +96,7 @@ it("displays the parent lookup field when the service location checkbox becomes 
 
 The two lines where things get really interesting for me \(meaning: it took me a while to figure this out\) are:
 
-```text
+```javascript
 const serviceAreaCheckbox = getByTestId("service-area-checkbox")
 const checkBoxActual = serviceAreaCheckbox.querySelector(
   "input[type=checkbox]"
@@ -107,7 +107,7 @@ We can get the `Checkbox` component with the first line, but this only gets us t
 
 The rendered code from the `Checkbox` component looks like this:
 
-```text
+```jsx
 <label
   class="sc-kAzzGY dXoiwv"
   data-testid="service-area-checkbox"
@@ -136,7 +136,7 @@ This case shows something a little different, and shows how to approach changing
 
 The code under test in this case is:
 
-```text
+```jsx
 const SmsNotifications = ({ name, value, onChange, isMobileSet }) => {
   return (
     <FormField name={name} label={null}>
@@ -162,7 +162,7 @@ const SmsNotifications = ({ name, value, onChange, isMobileSet }) => {
 
 The spec test for this feature is:
 
-```text
+```jsx
 it("enables the notify via sms checkbox when the mobile field has a value", () => {
   const NOTIFY_CHECKBOX_TESTID = "notify-via-sms-checkbox"
 
@@ -198,4 +198,3 @@ I’m doing the same trick as before about grabbing the actual checkbox by using
 This test uses the testing library’s `rerender` method, which is used to apply different props. In this case the props for the component are controlled above this component, so this is actually a valid test matching how it would work in the user’s environment.
 
 For the re-render, I’m passing in a value for the mobile phone number, which is used to determine whether the checkbox is en-/disabled.
-

@@ -1,24 +1,18 @@
-# Serving Static Files with Storybook
+## [2018-11-06 Tue 08:40] TIL: serving static files in storybook
 
-## Table of Contents
-
-1. [\[2018-11-06 Tue 08:40\]&lt;/span&gt; TIL: serving static files in storybook](2018-11-06-serving-static-files-in-storybook.md#org7cf5f17)
-
-## \[2018-11-06 Tue 08:40\]&lt;/span&gt; TIL: serving static files in storybook
-
-* lastupdate: Time-stamp: &lt;2018-11-06 Tue 08:56&gt;&lt;/span&gt;
-* capturedate: \[2018-11-06 Tue 08:40\]&lt;/span&gt;
-* keywords: storybook, test data, static assets
+- Time-stamp: <2019-10-09 00:53:27 tamara>
+- capture date: 2018-11-06 Tue 08:40
+- keywords: storybook, test data, static assets
 
 I wish I'd known about this before taking all that time to munge the test data the first time. It turns out storybook can serve up static assets by providing the `-s` option on the command line:
 
-```text
+```sh
 start-storybook -p 9009 -s ./path/to/static/assets -c .storybook/config.js
 ```
 
 You can have more than one folder as well, separating them by commas
 
-```text
+```sh
 start-storybook -p 9009 -s ./some/assets,./other/assets,./these/assets/over/here -c .storybook/config.js
 ```
 
@@ -35,4 +29,3 @@ http://localhost:9009/shasta/32/original/002.jpg
 ```
 
 And even more importantly, they can be referred to relatively even without the scheme and host.
-

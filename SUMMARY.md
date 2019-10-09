@@ -55,11 +55,13 @@
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
+  * [Introduction](javascript/javascript/intro.md)
   * [React notes](javascript/javascript/react-notes/README.md)
     * [Link: Dan Abramov: A Complete Guide to useEffect](javascript/javascript/react-notes/link-dan-abramov-a-complete-guide-to-useeffect.md)
     * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
     * [TIL: don't put subcomponents inside a React component](javascript/javascript/react-notes/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
   * [Notes on Storybook](javascript/javascript/notes-on-storybook/README.md)
+    * [What is Storybook?](javascript/javascript/notes-on-storybook/what-is-storybook.md)
     * [Serving Static Files with Storybook](javascript/javascript/notes-on-storybook/2018-11-06-serving-static-files-in-storybook.md)
   * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
@@ -92,7 +94,8 @@
 
 ## Systems, Ops, and DevOps
 
-* [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops.md)
+* [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops/README.md)
+  * [Links](systems-ops-and-devops/systems-operations-and-devops/links.md)
 
 ## Hardware
 
