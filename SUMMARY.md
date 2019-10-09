@@ -5,7 +5,7 @@
 ## Software as a Craft Site
 
 * [Intro to SWAAC](intro-to-swaac/intro-to-swaac/README.md)
-* [Colophon](intro-to-swaac/intro-to-swaac/colophon.md)
+  * [Colophon](intro-to-swaac/intro-to-swaac/colophon.md)
 
 ## learning
 
