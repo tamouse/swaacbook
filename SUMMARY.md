@@ -92,6 +92,7 @@
 ## Hardware
 
 * [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems/README.md)
+  * [MacOS Catalina switched default shell to zsh](hardware/notes-about-hardware-and-operating-systems/macos-catalina-switched-default-shell-to-zsh.md)
   * [Fix: Make Mac key repeat work](hardware/notes-about-hardware-and-operating-systems/fix-make-mac-key-repeat-work.md)
   * [Changing the Location for Screencaptures on macOS](hardware/notes-about-hardware-and-operating-systems/changing-the-location-for-screencaptures-on-macos.md)
 
