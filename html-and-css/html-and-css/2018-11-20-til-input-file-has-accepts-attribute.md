@@ -7,31 +7,35 @@ The `input[type=file]` element has an attribute, `accepts` that provides a pass 
 
 This means, if I have a set of allowed extensions, I can put them in the `accepts` field to limit what the user can select:
 
-With a little more work, if there is a pass list of extensions on the server, I could pass it down to the client via the `gon` object where a React client could pick it up.
+With a little more work, if there is a pass list of extensions on the server, I could pass it down to the client via the `gon` object where a React client could pick it up. The [gon](https://github.com/gazay/gon) gem lets you build a structure of information on the Rails side that is passed to the client as a JSON structure.
 
-```text
-module App
-  module CONSTANTS
-    UPLOAD_PASS_LIST = %w[
-      jpg
-      jpeg
-      png
-      gif
-      bmp
-      pdf
-      text
-      txt
-      markdown
-      md
-      csv
-      xls
-      xlsx
-      doc
-      docx
-    ].freeze
-  end
-end
+## On the server
 
+Somewhere, possibly in the Rails `config/initializers`, you can create a constant of the types of upload extensions allowed
+
+```ruby
+UPLOAD_PASS_LIST = %w[
+  jpg
+  jpeg
+  png
+  gif
+  bmp
+  pdf
+  text
+  txt
+  markdown
+  md
+  csv
+  xls
+  xlsx
+  doc
+  docx
+].freeze
+```
+
+In your controller action where you want to include the list of extensions, put in a before action:
+
+```ruby
 before_action :export_upload_pass_list
 
 # ...
@@ -39,25 +43,22 @@ before_action :export_upload_pass_list
 def export_upload_pass_list
   gon.push(upload_pass_list: App::CONSTANTS::UPLOAD_PASS_LIST)
 end
+```
 
+## In the client
 
-accepts_list = () => {
+```javascript
+function FileUploadWidget(props) {
+  accepts_list = () => {
     return gon.upload_pass_list.map(ext => `.${ext}`).join(",")
-}
-
-render() {
-    return (
+  }
+  return (
     <input
       type="file"
       name="data"
       accepts={this.accepts_list()}
       onChange={this.fileChange}
     />
-    )
+  )
 }
 ```
-
-## What is `gon`?
-
-The [gon](https://github.com/gazay/gon) gem lets you build a structure of information on the Rails side that is passed to the client as a JSON structure.
-
