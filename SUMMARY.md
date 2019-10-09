@@ -28,6 +28,7 @@
 ## Editors
 
 * [My notes on Emacs](editors/emacs/README.md)
+  * [Introduction](editors/emacs/intro.md)
   * [Emacs Org Mode](editors/emacs/emacs-org-mode.md)
   * [Resetting emacs colours after working with guard](editors/emacs/resetting-emacs-colours-after-working-with-guard.md)
 * [Notes about Editors](editors/notes-about-editors/README.md)
@@ -40,15 +41,16 @@
 
 ## HTML & CSS
 
-* [Notes on HTML & CSS](html-and-css/intro/README.md)
-  * [Problems with target=\_blank in HTML](html-and-css/intro/problems-with-target-_blank-in-html.md)
-  * [147 color names](html-and-css/intro/147-colors-grid-css-color-names.md)
-  * [Link: CSS Frameworks vs Grid](html-and-css/intro/2018-11-14-link-css-frameworks-vs-grid.md)
-  * [Clearfix \(CSS floats\)](html-and-css/intro/clearfix-css-floats.md)
-  * [Creating Non-Rectangular Layouts With CSS Shapes](html-and-css/intro/creating-non-rectangular-layouts-with-css-shapes.md)
-  * [CSS Centering a List Horizontally and Vertically](html-and-css/intro/css-centering-a-list-horizontally-and-vertically.md)
-  * [Drop Caps in CSS](html-and-css/intro/drop-caps-in-css.md)
-  * [TIL: Input File Has accepts Attribute](html-and-css/intro/2018-11-20-til-input-file-has-accepts-attribute.md)
+* [Notes on HTML & CSS](html-and-css/html-and-css/README.md)
+  * [Links on HTML and CSS](html-and-css/html-and-css/links.md)
+  * [Problems with target=\_blank in HTML](html-and-css/html-and-css/problems-with-target-_blank-in-html.md)
+  * [147 color names](html-and-css/html-and-css/147-colors-grid-css-color-names.md)
+  * [Link: CSS Frameworks vs Grid](html-and-css/html-and-css/2018-11-14-link-css-frameworks-vs-grid.md)
+  * [Clearfix \(CSS floats\)](html-and-css/html-and-css/clearfix-css-floats.md)
+  * [Creating Non-Rectangular Layouts With CSS Shapes](html-and-css/html-and-css/creating-non-rectangular-layouts-with-css-shapes.md)
+  * [CSS Centering a List Horizontally and Vertically](html-and-css/html-and-css/css-centering-a-list-horizontally-and-vertically.md)
+  * [Drop Caps in CSS](html-and-css/html-and-css/drop-caps-in-css.md)
+  * [TIL: Input File Has accepts Attribute](html-and-css/html-and-css/2018-11-20-til-input-file-has-accepts-attribute.md)
 
 ## JavaScript
 
