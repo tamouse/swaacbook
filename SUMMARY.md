@@ -1,8 +1,11 @@
 # Table of contents
 
 * [SWAAC - Software as a Craft](README.md)
-  * [Intro to SWAAC](intro.md)
-  * [Colophon](colophon.md)
+
+## Software as a Craft Site
+
+* [Intro to SWAAC](intro-to-swaac/intro-to-swaac/README.md)
+* [Colophon](intro-to-swaac/intro-to-swaac/colophon.md)
 
 ## learning
 
