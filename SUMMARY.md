@@ -90,6 +90,8 @@
 
 * [Notes about GraphQL](graphql/notes-about-graphql/README.md)
   * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
+  * [GraphQL, Rails, and React](graphql/notes-about-graphql/graphql-rails-and-react/README.md)
+    * [Experiment with multiple React components using a single Apollo client](graphql/notes-about-graphql/graphql-rails-and-react/Experiment-MultiComponent-SingleClient.md)
 
 ## Git and Friends
 
