@@ -6,6 +6,8 @@ An experiment to see if it's possible to have a global apollo client on the page
 
 Yes, it works.
 
+Proof of concept repo: https://gitlab.com/tamouse/multi-react-single-apollo
+
 ## Create rails app:
 
     rails new my_app --skip-spring --skip-turbolinks --skip-coffee --skip-test --webpack=react --database=postgresql
