@@ -2,6 +2,9 @@
 
 An experiment to see if it's possible to have a global apollo client on the page with multiple react rails components.
 
+## TL;DR
+
+Yes, it works.
 
 ## Create rails app:
 
