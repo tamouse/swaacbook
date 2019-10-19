@@ -1,2 +1,0 @@
-# Notes about database systems
-

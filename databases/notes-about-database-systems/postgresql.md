@@ -1,4 +1,0 @@
-# Postgresql
-
-something or other
-

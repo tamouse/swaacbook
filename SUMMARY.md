@@ -48,19 +48,24 @@
 
 * [Notes on HTML & CSS](html-and-css/html-and-css/README.md)
   * [Links on HTML and CSS](html-and-css/html-and-css/links.md)
-  * [Problems with target=\_blank in HTML](html-and-css/html-and-css/problems-with-target-_blank-in-html.md)
-  * [147 color names](html-and-css/html-and-css/147-colors-grid-css-color-names.md)
-  * [Link: CSS Frameworks vs Grid](html-and-css/html-and-css/2018-11-14-link-css-frameworks-vs-grid.md)
-  * [Clearfix \(CSS floats\)](html-and-css/html-and-css/clearfix-css-floats.md)
-  * [Creating Non-Rectangular Layouts With CSS Shapes](html-and-css/html-and-css/creating-non-rectangular-layouts-with-css-shapes.md)
-  * [CSS Centering a List Horizontally and Vertically](html-and-css/html-and-css/css-centering-a-list-horizontally-and-vertically.md)
-  * [Drop Caps in CSS](html-and-css/html-and-css/drop-caps-in-css.md)
-  * [TIL: Input File Has accepts Attribute](html-and-css/html-and-css/2018-11-20-til-input-file-has-accepts-attribute.md)
+  * [HTML](html-and-css/html-and-css/html/README.md)
+    * [Explain: Problems with target=\_blank in HTML](html-and-css/html-and-css/html/problems-with-target-_blank-in-html.md)
+    * [TIL: Input File Has accepts Attribute](html-and-css/html-and-css/html/2018-11-20-til-input-file-has-accepts-attribute.md)
+  * [CSS](html-and-css/html-and-css/css/README.md)
+    * [Link: 147 color names](html-and-css/html-and-css/css/147-colors-grid-css-color-names.md)
+    * [Link: CSS Frameworks vs Grid](html-and-css/html-and-css/css/2018-11-14-link-css-frameworks-vs-grid.md)
+    * [CSS Centering a List Horizontally and Vertically](html-and-css/html-and-css/css/css-centering-a-list-horizontally-and-vertically.md)
+    * [Drop Caps in CSS](html-and-css/html-and-css/css/drop-caps-in-css.md)
+    * [Creating Non-Rectangular Layouts With CSS Shapes](html-and-css/html-and-css/css/creating-non-rectangular-layouts-with-css-shapes.md)
+    * [Clearfix \(CSS floats\)](html-and-css/html-and-css/css/clearfix-css-floats.md)
 
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
-  * [Introduction to notes on JavaScript](javascript/javascript/intro.md)
+  * [Notes on JavaScript](javascript/javascript/intro/README.md)
+    * [JavaScript exercises and examples](javascript/javascript/intro/javascript-exercises-and-examples.md)
+    * [TIL: jQuery attr vs. prop](javascript/javascript/intro/2019-05-02-til-jquery-attr-vs-prop.md)
+    * [Generating consistent faker values for testing](javascript/javascript/intro/2019-08-17-generating-consistent-faker-values-for-testing.md)
   * [React notes](javascript/javascript/react-notes/README.md)
     * [Link: Dan Abramov: A Complete Guide to useEffect](javascript/javascript/react-notes/link-dan-abramov-a-complete-guide-to-useeffect.md)
     * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
@@ -68,9 +73,6 @@
   * [Notes on Storybook](javascript/javascript/storybook/README.md)
     * [What is Storybook?](javascript/javascript/storybook/what-is-storybook.md)
     * [Serving Static Files with Storybook](javascript/javascript/storybook/2018-11-06-serving-static-files-in-storybook.md)
-  * [Generating consistent faker values for testing](javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
-  * [TIL: jQuery attr vs. prop](javascript/javascript/2019-05-02-til-jquery-attr-vs-prop.md)
-  * [JavaScript exercises and examples](javascript/javascript/javascript-exercises-and-examples.md)
 
 ## Ruby and Rails
 
@@ -88,19 +90,12 @@
   * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)
   * [TIL: Rails ActiveJob argument types are restricted](ruby-and-rails/ruby-and-rails/2019-08-08-til-rails-active-job-argument-types.md)
-  * [Jekyll and Friends](ruby-and-rails/ruby-and-rails/jekyll-and-friends.md)
-  * [Sinatra](ruby-and-rails/ruby-and-rails/sinatra.md)
-
-## Databases
-
-* [Notes about database systems](databases/notes-about-database-systems/README.md)
-  * [Postgresql](databases/notes-about-database-systems/postgresql.md)
 
 ## GraphQL
 
 * [Notes about GraphQL](graphql/notes-about-graphql/README.md)
-  * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
   * [GraphQL, Rails, and React](graphql/notes-about-graphql/graphql-rails-and-react/README.md)
+    * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-rails-and-react/graphql-mutating-an-objects-state.md)
     * [Experiment with multiple React components using a single Apollo client](graphql/notes-about-graphql/graphql-rails-and-react/experiment-multicomponent-singleclient.md)
 
 ## Git and Friends
@@ -116,19 +111,20 @@
 ## Miscellaneous Stuff
 
 * [Miscellaneous Stuff](miscellaneous-stuff/misc/README.md)
-  * [MacOS Catalina switched default shell to zsh](miscellaneous-stuff/misc/macos-catalina-switched-default-shell-to-zsh.md)
-  * [Documenting Regular Expressions](miscellaneous-stuff/misc/documenting-regular-expressions.md)
-  * [Changing the Location for Screencaptures on macOS](miscellaneous-stuff/misc/changing-the-location-for-screencaptures-on-macos.md)
+  * [Link: showterm.io](miscellaneous-stuff/misc/showterm.io.md)
+  * [New: MacOS Catalina switched default shell to zsh](miscellaneous-stuff/misc/macos-catalina-switched-default-shell-to-zsh.md)
+  * [How To: Documenting Regular Expressions](miscellaneous-stuff/misc/documenting-regular-expressions.md)
+  * [Tip: Changing the Location for Screencaptures on macOS](miscellaneous-stuff/misc/changing-the-location-for-screencaptures-on-macos.md)
   * [Fix: Make Mac key repeat work](miscellaneous-stuff/misc/fix-make-mac-key-repeat-work.md)
   * [On-line Tool: Web Sequence Diagrammer](miscellaneous-stuff/misc/on-line-tool-web-sequence-diagrammer.md)
   * [First thing I learned about working with Elixir](miscellaneous-stuff/misc/first-thing-i-learned-about-working-with-elixir.md)
-  * [Programmaer's Primary Language \(joke\)](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
+  * [Humour: What is a Programmer's Primary Language?](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
   * [Career Advice](miscellaneous-stuff/misc/career-advice.md)
-  * [Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
+  * [How to: Creating verse with kramdown](miscellaneous-stuff/misc/2019-05-27-creating-verse-paragraphs-in-kramdown.md)
   * [Link: Your software is never perfect](miscellaneous-stuff/misc/your-software-is-never-perfect.md)
-  * [Baratunde Thurston Explains Web Encryption](miscellaneous-stuff/misc/baratunde-thurston-explains-web-encryption.md)
+  * [Link: Baratunde Thurston Explains Web Encryption](miscellaneous-stuff/misc/baratunde-thurston-explains-web-encryption.md)
   * [code as literature, software dev as communication](miscellaneous-stuff/misc/code-as-literature-software-dev-as-communication.md)
-  * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
-  * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
-    * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
+  * [TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
+  * [Thoughts on Testing](miscellaneous-stuff/misc/2018-11-29-thoughts-on-writing-good-tests.md)
+  * [Notes on Testing](miscellaneous-stuff/misc/testing.md)
 

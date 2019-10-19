@@ -1,4 +1,4 @@
-# Documenting Regular Expressions
+# How To: Documenting Regular Expressions
 
 * published date: 2014-11-02 15:35
 

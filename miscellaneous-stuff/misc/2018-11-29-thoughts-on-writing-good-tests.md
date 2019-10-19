@@ -33,7 +33,7 @@ My response:
 >
 > another way to approach it is from the test driven side, and write tests that describe exactly what the feature does, does not do, responds to random input, responds to incorrect input, etc, so you completely spec the feature before any feature code is written.
 
-I completely left off the intrepid and amazing [Kent C. Dodds](https://kentcdodds.com), author, teacher, developer, tester, and generally all-around nice guy. I do mention him a fair bit in the [learning](../../../learning/intro/web-sites/) section.
+I completely left off the intrepid and amazing [Kent C. Dodds](https://kentcdodds.com), author, teacher, developer, tester, and generally all-around nice guy. I do mention him a fair bit in the [learning](../../learning/intro/web-sites/) section.
 
 * keywords: testing, learning
 

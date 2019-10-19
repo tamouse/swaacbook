@@ -6,5 +6,7 @@ Testing strategies, tools, frameworks, etc., have grown and changed over the yea
 
 ## See also
 
-* [Generating consistent faker values for testing](../../../javascript/javascript/2019-08-17-generating-consistent-faker-values-for-testing.md)
+* [Generating consistent faker values for testing](../../javascript/javascript/intro/2019-08-17-generating-consistent-faker-values-for-testing.md)
+
+
 

@@ -1,10 +1,10 @@
 ---
-description: 'zsh has been available, now it''s the default. I guess it''s time.'
+description: 'A collection of things I''ve found, hopefully helpful in switching.'
 ---
 
-# MacOS Catalina switched default shell to zsh
+# New: MacOS Catalina switched default shell to zsh
 
-A collection of things I've found, hopefully helpful in switching.
+zsh has been available, now it's the default. I guess it's time.
 
 ## Links
 

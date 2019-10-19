@@ -1,4 +1,4 @@
-# Changing the “Return To Shop” link and text in an empty WooCommerce cart
+# TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart
 
 * published date: 2016-12-20 23:58
 * keywords: \[“customization”, “say-what”, “woocommerce”, “wordpress”\]

@@ -1,4 +1,4 @@
-# Programmaer's Primary Language \(joke\)
+# Humour: What is a Programmer's Primary Language?
 
 ### _**Profanity**_  🤣 
 

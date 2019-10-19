@@ -1,4 +1,4 @@
-# Changing the Location for Screencaptures on macOS
+# Tip: Changing the Location for Screencaptures on macOS
 
 * published date: 2017-05-02 13:28
 * keywords:

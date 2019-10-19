@@ -1,4 +1,4 @@
-# Creating verse with kramdown
+# How to: Creating verse with kramdown
 
 Post date: 2019-05-17
 

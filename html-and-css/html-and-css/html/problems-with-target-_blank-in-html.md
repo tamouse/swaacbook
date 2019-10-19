@@ -1,4 +1,4 @@
-# Problems with target=\_blank in HTML
+# Explain: Problems with target=\_blank in HTML
 
 There is a security issue in HTML's anchor tags `<a>` where the `target="_blank"` attribute is used.
 
