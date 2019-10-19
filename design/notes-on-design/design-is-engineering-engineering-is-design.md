@@ -1,3 +1,10 @@
+---
+description: >-
+  a work in progress, the intent to enlighten both designers and engineers, to
+  bring about deeper understanding and communication across a seeming gulf of
+  experience and epistemology
+---
+
 # Design is Engineering, Engineering is Design
 
 I took a seminar back when I was in Uni, called "Design is Engineering, Engineering is Design" and lots of things lately have been reminding me of that.
@@ -25,12 +32,25 @@ The joke isn't that engineers never build a bridge that doesn't fall down, it's 
 
 I think visual design does this, too. 
 
-* anyone can put information onto a page, but only a designer can put information onto a page that is appealing and helpful to understand that information.
-* anyone can throw links onto a web site, but only a UX designer can make navigation make sense for the intended user
+* anyone can put information onto a web site, but only a designer can put just barely enough information onto a page the helps the user perform the task they came to do
+* anyone can throw links onto a web site, but only a designer can make just barely enough navigation so the user can find what they are looking for
+* anyone can dump stuff onto a web site, but only a designer can put just barely enough things on a page the lead the user to where they need to go
+* and so on
 
 So where the course and Max's book are intended to direct engineering types to consider the act of design, i.e, the thoughtful research and planning of what to implement, given the broader context of what is needed by users and what already exists.
 
-I'm not a visual designer so I really don't know this, but experience of listening to visual designers talk leads me to the conclusion that there is that same step of thoughtful research and planning that happens before commiting to a specific layout, set of affordances, and the user experience of a web site.
+I'm not a visual designer so I really don't know this: my experience of listening to visual designers talk leads me to the conclusion that there is that same step of thoughtful research and planning that happens before commiting to a specific layout, set of affordances, and the user experience of a web site.
+
+So, perhaps, we have a parallelism here. 
+
+My mom was a fiber artist, and obtained a Masters in Design. We used to spend many hours talking about the parallel factors in what she knew about design from an artist's viewpoint, which was the planning, knowing the effects of putting different colours, patterns, line, form, texture, etc., together, what worked well, what was displeasing, and how to achieve a particular effect, all in light of the intent of the piece, who it was for when she was working on a commission, and where it would be placed and lit.
+
+For my part, I talked about the fitness of a piece of software for use based on the user, making certain things clear and obvious, use of metaphors and analogies to make learning a new system easier, similarities and ideas around placement, colour, line, etc., but what was most agreeable for both of us is the concept that what is being designed is for humans:
+
+* art is intended for people to view, in a given place
+* software is intended for people to use, in a given place
+
+There are counterexamples to both of these, of course, and yet the majority of both art and software fit these concepts.
 
 _to be continued_
 
