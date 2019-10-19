@@ -1,10 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-
-## Software as a Craft Site
-
-* [SWAAC - Software as a Craft](software-as-a-craft-site/readme/README.md)
   * [Intro to SWAAC](software-as-a-craft-site/readme/intro-to-swaac.md)
   * [Colophon](software-as-a-craft-site/readme/colophon.md)
 
