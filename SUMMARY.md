@@ -4,23 +4,23 @@
 
 ## Software as a Craft Site
 
-* [Intro to SWAAC](intro-to-swaac/intro-to-swaac/README.md)
-  * [Colophon](intro-to-swaac/intro-to-swaac/colophon.md)
+* [Intro to SWAAC](software-as-a-craft-site/intro-to-swaac/README.md)
+  * [Colophon](software-as-a-craft-site/intro-to-swaac/colophon.md)
 
 ## learning
 
 * [Introduction to Learning Section](learning/intro/README.md)
   * [Thoughts on Learning](learning/intro/learning.md)
-  * [Books](learning/books/README.md)
-	* [Books about Programming](learning/books/books-about-programming.md)
-    * [Books about Object-Oriented Programming](learning/books/books-about-object-oriented-programming.md)
-    * [Books on HTML and CSS](learning/books/books-on-html-and-css.md)
-    * [Books on JavaScript](learning/books/books-on-javascript.md)
-    * [Books on Ruby](learning/books/books-on-ruby.md)
-    * [Books on Rails](learning/books/books-on-rails.md)
-  * [Web Sites](learning/web-sites/README.md)
-    * [on-demand learning](learning/web-sites/on-demand.md)
-    * [podcasts](learning/web-sites/podcasts.md)
+  * [Books](learning/intro/books/README.md)
+    * [Books about Programming](learning/intro/books/books-about-programming.md)
+    * [Books about Object-Oriented Programming](learning/intro/books/books-about-object-oriented-programming.md)
+    * [Books on HTML and CSS](learning/intro/books/books-on-html-and-css.md)
+    * [Books on JavaScript](learning/intro/books/books-on-javascript.md)
+    * [Books on Ruby](learning/intro/books/books-on-ruby.md)
+    * [Books on Rails](learning/intro/books/books-on-rails.md)
+  * [Web Sites](learning/intro/web-sites/README.md)
+    * [on-demand learning](learning/intro/web-sites/on-demand.md)
+    * [podcasts](learning/intro/web-sites/podcasts.md)
   * [Some other learning organizations](learning/intro/other.md)
 
 ## Browsers
@@ -41,6 +41,7 @@
 ## Design
 
 * [Notes on Design](design/notes-on-design/README.md)
+  * [Design is Engineering, Engineering is Design](design/notes-on-design/design-is-engineering-engineering-is-design.md)
   * [Dieter Rams' 10 Principles For Good Design](design/notes-on-design/dieter-rams-10-principles-for-good-design.md)
 
 ## HTML & CSS
@@ -91,7 +92,7 @@
 * [Notes about GraphQL](graphql/notes-about-graphql/README.md)
   * [GraphQL: Mutating an Object’s State](graphql/notes-about-graphql/graphql-mutating-an-objects-state.md)
   * [GraphQL, Rails, and React](graphql/notes-about-graphql/graphql-rails-and-react/README.md)
-    * [Experiment with multiple React components using a single Apollo client](graphql/notes-about-graphql/graphql-rails-and-react/Experiment-MultiComponent-SingleClient.md)
+    * [Experiment with multiple React components using a single Apollo client](graphql/notes-about-graphql/graphql-rails-and-react/experiment-multicomponent-singleclient.md)
 
 ## Git and Friends
 
@@ -129,3 +130,4 @@
   * [Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing/README.md)
     * [Thoughts on Testing](miscellaneous-stuff/misc/testing/2018-11-29-thoughts-on-writing-good-tests.md)
+

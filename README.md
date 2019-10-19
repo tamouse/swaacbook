@@ -1,4 +1,6 @@
 ---
 description: Software as a Craft
 ---
-# Intro to SWAAC
+
+# SWAAC - Software as a Craft
+

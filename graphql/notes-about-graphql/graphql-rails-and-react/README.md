@@ -1,1 +1,2 @@
-# Notes on GraphQL, Rails, and React combined
+# GraphQL, Rails, and React
+

@@ -1,4 +1,4 @@
-# Web Sites for Learning
+# Web Sites
 
 These are some of the web sites people tell me they like use for learning. This is a nearly impossible list to keep up with, though, as new sites spring up all the time.
 
@@ -77,3 +77,4 @@ the most often recommended site to learn how to create web applications in Rails
 ### [**Ruby Koans**](http://www.rubykoans.com/)
 
 "koans" are an Eastern discipline tradition: small, repeated exercises to learn skills and build them into your muscles and memory, so you can use them without thinking consciously about them. In this sense, the ruby koans are small exercises intended to lead you on the way to learning ruby. I can't say if they're that successful, but some people definitely enjoy this progressive way of learning. The ruby koans definitely guide you in the way of test-first development, which is a beneficial practice for all to know.
+

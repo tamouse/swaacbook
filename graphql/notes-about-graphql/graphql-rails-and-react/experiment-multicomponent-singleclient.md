@@ -1,20 +1,24 @@
-# Multiple React components with Single Apollo client on a Rails view
+# Experiment with multiple React components using a single Apollo client
+
+## Multiple React components with Single Apollo client on a Rails view
 
 An experiment to see if it's possible to have a global apollo client on the page with multiple react rails components.
 
-## TL;DR
+### TL;DR
 
 Yes, it works.
 
-Proof of concept repo: https://gitlab.com/tamouse/multi-react-single-apollo
+Proof of concept repo: [https://gitlab.com/tamouse/multi-react-single-apollo](https://gitlab.com/tamouse/multi-react-single-apollo)
 
-## Create rails app:
+### Create rails app:
 
-    rails new my_app --skip-spring --skip-turbolinks --skip-coffee --skip-test --webpack=react --database=postgresql
-
-## Add graphql ruby:
-
+```text
+rails new my_app --skip-spring --skip-turbolinks --skip-coffee --skip-test --webpack=react --database=postgresql
 ```
+
+### Add graphql ruby:
+
+```text
 pushd my_app/
 echo >> Gemfile
 echo 'gem "graphql"' >> Gemfile
@@ -23,17 +27,19 @@ rails g graphql:install
 bundle
 ```
 
-# abandon Rails 6, back to Rails 5
+## abandon Rails 6, back to Rails 5
 
-## Create rails app:
+### Create rails app:
 
-    rails _5.2.3_ new my_app --no-rc --skip-spring --skip-turbolinks --skip-test --webpack=react --database=postgresql
-    pushd my_app/
-    bin/rails db:drop db:create db:migrate
-
-## Add graphql:
-
+```text
+rails _5.2.3_ new my_app --no-rc --skip-spring --skip-turbolinks --skip-test --webpack=react --database=postgresql
+pushd my_app/
+bin/rails db:drop db:create db:migrate
 ```
+
+### Add graphql:
+
+```text
 gcob add-graphql
 echo >> Gemfile
 echo 'gem "graphql"' >> Gemfile
@@ -42,26 +48,28 @@ bin/rails g graphql:install
 bundle
 ```
 
-*NOW*, running the graphiql service works fine:
+_NOW_, running the graphiql service works fine:
 
-    bin/rails s
+```text
+bin/rails s
+```
 
 Open `http://localhost:3000/graphiql` brings up the IDE
 
-## Add react-rails
+### Add react-rails
 
 Not just webpacker:react, we're also going to want the react-rails stuff for React Rails Components
 
-```
+```text
 echo >> Gemfile
 echo 'gem "react-rails"' >> Gemfile
 bundle
 bin/rails g react:install
 ```
 
-## Add some React Rails components
+### Add some React Rails components
 
-```
+```text
 bin/rails g react:component HelloWorld
 bin/rails g react:component GoodbyeWorld
 bin/rails g controller Static welcome
@@ -77,13 +85,13 @@ Edit `app/views/static/welcome.html.erb` to include the two components:
   <%= react_component('GoodbyeWorld') %>
 ```
 
-## Add Apollo React Client
+### Add Apollo React Client
 
-```
+```text
 yarn add apollo-boost @apollo/react-hooks graphql
 ```
 
-### Create the client
+#### Create the client
 
 For this example, I'm building the client so it will be on the global context. In `app/javascript/apolloClient.js`:
 
@@ -95,7 +103,7 @@ window.GraphqlClient = new ApolloClient({
 })
 ```
 
-### Update the React Rails components to use the client
+#### Update the React Rails components to use the client
 
 The react components become:
 
@@ -141,4 +149,5 @@ const HelloWorldContent = props => {
 }
 ```
 
-(GoodbyeWorld is nearly identical)
+\(GoodbyeWorld is nearly identical\)
+

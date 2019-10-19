@@ -1,1 +1,2 @@
-# Notes on HTML &amp; CSS
+# Notes on HTML & CSS
+

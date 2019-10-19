@@ -2,7 +2,7 @@
 description: building blocks of the web age
 ---
 
-# Notes on HTML & CSS
+# Links on HTML and CSS
 
 ## Links n stuff
 

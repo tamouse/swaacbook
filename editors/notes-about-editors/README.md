@@ -1,1 +1,2 @@
-# Notes about Editors
+# Notes about Other Editors
+

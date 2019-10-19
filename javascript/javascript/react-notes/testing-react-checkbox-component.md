@@ -18,7 +18,7 @@ In this particular episode, your intrepid frontend dev \(me\) had to find out th
 
 For our purposes here, only 1 and 2 are of interest.
 
-### Displaying a field form when a checkbox is set
+## Displaying a field form when a checkbox is set
 
 For this form row, the code under test looks like this:
 
@@ -130,7 +130,7 @@ From there, verifying the preconditions and postconditions becomes fairly easy:
 
 Making the change happens with the `fireEvent.click`. \(Note: the `change` event doesn’t work for checkboxes. See: [https://github.com/testing-library/react-testing-library/pull/178/files\#diff-04c6e90faac2675aa89e2176d2eec7d8R631](https://github.com/testing-library/react-testing-library/pull/178/files#diff-04c6e90faac2675aa89e2176d2eec7d8R631) \) \(and beware the drift of time as well…\)
 
-### Verifying a checkbox is en-/disabled based on another value
+## Verifying a checkbox is en-/disabled based on another value
 
 This case shows something a little different, and shows how to approach changing props as related to component testing.
 
@@ -157,7 +157,6 @@ const SmsNotifications = ({ name, value, onChange, isMobileSet }) => {
     </FormField>
   )
 }
-
 ```
 
 The spec test for this feature is:
@@ -198,3 +197,4 @@ I’m doing the same trick as before about grabbing the actual checkbox by using
 This test uses the testing library’s `rerender` method, which is used to apply different props. In this case the props for the component are controlled above this component, so this is actually a valid test matching how it would work in the user’s environment.
 
 For the re-render, I’m passing in a value for the mobile phone number, which is used to determine whether the checkbox is en-/disabled.
+
