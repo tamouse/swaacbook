@@ -113,21 +113,13 @@
 * [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops/README.md)
   * [Links](systems-ops-and-devops/systems-operations-and-devops/links.md)
 
-## Hardware
-
-* [notes about hardware and operating systems](hardware/notes-about-hardware-and-operating-systems/README.md)
-  * [Fix: Make Mac key repeat work](hardware/notes-about-hardware-and-operating-systems/fix-make-mac-key-repeat-work.md)
-  * [Changing the Location for Screencaptures on macOS](hardware/notes-about-hardware-and-operating-systems/changing-the-location-for-screencaptures-on-macos.md)
-
-## Command line fu
-
-* [Notes on using the command line, terminals, shell scripts](command-line-fu/notes-on-using-the-command-line-terminals-shell-scripts/README.md)
-  * [MacOS Catalina switched default shell to zsh](command-line-fu/notes-on-using-the-command-line-terminals-shell-scripts/macos-catalina-switched-default-shell-to-zsh.md)
-
 ## Miscellaneous Stuff
 
 * [Miscellaneous Stuff](miscellaneous-stuff/misc/README.md)
+  * [MacOS Catalina switched default shell to zsh](miscellaneous-stuff/misc/macos-catalina-switched-default-shell-to-zsh.md)
   * [Documenting Regular Expressions](miscellaneous-stuff/misc/documenting-regular-expressions.md)
+  * [Changing the Location for Screencaptures on macOS](miscellaneous-stuff/misc/changing-the-location-for-screencaptures-on-macos.md)
+  * [Fix: Make Mac key repeat work](miscellaneous-stuff/misc/fix-make-mac-key-repeat-work.md)
   * [On-line Tool: Web Sequence Diagrammer](miscellaneous-stuff/misc/on-line-tool-web-sequence-diagrammer.md)
   * [First thing I learned about working with Elixir](miscellaneous-stuff/misc/first-thing-i-learned-about-working-with-elixir.md)
   * [Programmaer's Primary Language \(joke\)](miscellaneous-stuff/misc/2019-08-01-programmer-s-primary-language.md)
