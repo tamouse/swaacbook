@@ -75,6 +75,13 @@
 ## Ruby and Rails
 
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
+  * [Links](ruby-and-rails/ruby-and-rails/links.md)
+  * [Ruby One-liners](ruby-and-rails/ruby-and-rails/ruby-one-liners.md)
+  * [Rails tips](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/README.md)
+    * [getting the end of the month, end of the year, etc](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/getting-the-end-of-the-month-end-of-the-year-etc.md)
+    * [Making records immutable](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/making-records-immutable.md)
+    * [no "tri-state" booleans: narrow the set of possibilities](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/no-tri-state-booleans-narrow-the-set-of-possibilities.md)
+  * [Rails Testing](ruby-and-rails/ruby-and-rails/rails-testing.md)
   * [first vs. take](ruby-and-rails/ruby-and-rails/first-vs.-take.md)
   * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
   * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/prefer-pluck-to-map.md)

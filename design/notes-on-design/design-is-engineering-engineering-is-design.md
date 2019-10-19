@@ -56,8 +56,7 @@ So to bring things together, somewhat:
 
 * a web site is intended for people to use, with a given purpose
 
-It is the *collaboration* between Visual Designers and Software Engineers, both peforming *design* and *implementation*, i.e. *planning* and *realization*, for their respective aspects of the whole web site. At nearly no time during this work does it serve the *end user* for either of these collaborators to work completely separately from each other, but rather an interative back-and-forth, each learning and each teaching, and all sharing, in order to bring the user what they need.
-
-
+It is the _collaboration_ between Visual Designers and Software Engineers, both peforming _design_ and _implementation_, i.e. _planning_ and _realization_, for their respective aspects of the whole web site. At nearly no time during this work does it serve the _end user_ for either of these collaborators to work completely separately from each other, but rather an interative back-and-forth, each learning and each teaching, and all sharing, in order to bring the user what they need.
 
 _to be continued_
+
