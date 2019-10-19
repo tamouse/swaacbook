@@ -30,7 +30,7 @@ Anyone can build a bridge that doesn't fall down, but only an engineer can build
 
 The joke isn't that engineers never build a bridge that doesn't fall down, it's that the sorts of things that are taught for engineering, and this only sometimes includes software development, are the things that make good bridges that don't fall down when they study them well enough.
 
-I think visual design does this, too. 
+I think visual design does this, too.
 
 * anyone can put information onto a web site, but only a designer can put just barely enough information onto a page the helps the user perform the task they came to do
 * anyone can throw links onto a web site, but only a designer can make just barely enough navigation so the user can find what they are looking for
@@ -41,7 +41,7 @@ So where the course and Max's book are intended to direct engineering types to c
 
 I'm not a visual designer so I really don't know this: my experience of listening to visual designers talk leads me to the conclusion that there is that same step of thoughtful research and planning that happens before commiting to a specific layout, set of affordances, and the user experience of a web site.
 
-So, perhaps, we have a parallelism here. 
+So, perhaps, we have a parallelism here.
 
 My mom was a fiber artist, and obtained a Masters in Design. We used to spend many hours talking about the parallel factors in what she knew about design from an artist's viewpoint, which was the planning, knowing the effects of putting different colours, patterns, line, form, texture, etc., together, what worked well, what was displeasing, and how to achieve a particular effect, all in light of the intent of the piece, who it was for when she was working on a commission, and where it would be placed and lit.
 
@@ -52,5 +52,12 @@ For my part, I talked about the fitness of a piece of software for use based on 
 
 There are counterexamples to both of these, of course, and yet the majority of both art and software fit these concepts.
 
-_to be continued_
+So to bring things together, somewhat:
 
+* a web site is intended for people to use, with a given purpose
+
+It is the *collaboration* between Visual Designers and Software Engineers, both peforming *design* and *implementation*, i.e. *planning* and *realization*, for their respective aspects of the whole web site. At nearly no time during this work does it serve the *end user* for either of these collaborators to work completely separately from each other, but rather an interative back-and-forth, each learning and each teaching, and all sharing, in order to bring the user what they need.
+
+
+
+_to be continued_
