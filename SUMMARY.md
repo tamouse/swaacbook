@@ -78,6 +78,8 @@
   * [Links](ruby-and-rails/ruby-and-rails/links.md)
   * [Ruby One-liners](ruby-and-rails/ruby-and-rails/ruby-one-liners.md)
   * [Rails tips](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/README.md)
+    * [Setting up Rails + React](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/setting-up-rails-+-react.md)
+    * [Calling Controller actions from the console](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/calling-controller-actions-from-the-console.md)
     * [getting the end of the month, end of the year, etc](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/getting-the-end-of-the-month-end-of-the-year-etc.md)
     * [Making records immutable](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/making-records-immutable.md)
     * [no "tri-state" booleans: narrow the set of possibilities](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/no-tri-state-booleans-narrow-the-set-of-possibilities.md)
