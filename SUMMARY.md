@@ -72,9 +72,6 @@
 ## JavaScript
 
 * [Notes on JavaScript](javascript/javascript/README.md)
-  * [Jest and Friends](javascript/javascript/jest-and-friends/README.md)
-    * [TIL: Dealing with a jest import SyntaxError](javascript/javascript/jest-and-friends/til-dealing-with-a-jest-import-syntaxerror.md)
-    * [TIL: Using enzyme’s shallow render with MemoryRouter doesn’t work](javascript/javascript/jest-and-friends/til-using-enzymes-shallow-render-with-memoryrouter-doesnt-work.md)
   * [Notes on JavaScript](javascript/javascript/intro/README.md)
     * [JavaScript exercises and examples](javascript/javascript/intro/javascript-exercises-and-examples.md)
     * [TIL: jQuery attr vs. prop](javascript/javascript/intro/2019-05-02-til-jquery-attr-vs-prop.md)
@@ -88,6 +85,11 @@
     * [Testing React Checkbox Component](javascript/javascript/react-notes/testing-react-checkbox-component.md)
     * [TIL: don't put subcomponents inside a React component](javascript/javascript/react-notes/2019-08-27-til-dont-put-subcomponents-inside-a-component.md)
     * [React-Redux Videos](javascript/javascript/react-notes/react-redux-videos.md)
+  * [Gatsby Notes](javascript/javascript/gatsby-notes/README.md)
+    * [Categories and Tags](javascript/javascript/gatsby-notes/categories-and-tags.md)
+  * [Jest and Friends](javascript/javascript/jest-and-friends/README.md)
+    * [TIL: Dealing with a jest import SyntaxError](javascript/javascript/jest-and-friends/til-dealing-with-a-jest-import-syntaxerror.md)
+    * [TIL: Using enzyme’s shallow render with MemoryRouter doesn’t work](javascript/javascript/jest-and-friends/til-using-enzymes-shallow-render-with-memoryrouter-doesnt-work.md)
   * [Notes about jQuery](javascript/javascript/notes-about-jquery/README.md)
     * [Fixing a common problem: not clearing a selected option before setting a new selected option](javascript/javascript/notes-about-jquery/fixing-a-common-problem-not-clearing-a-selected-option-before-setting-a-new-selected-option.md)
   * [Class Notes](javascript/javascript/class-notes/README.md)
