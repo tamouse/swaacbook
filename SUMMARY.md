@@ -31,20 +31,20 @@
   * [Introduction to notes on Emacs](editors/emacs/intro.md)
   * [Emacs Org Mode](editors/emacs/emacs-org-mode.md)
   * [Resetting emacs colours after working with guard](editors/emacs/resetting-emacs-colours-after-working-with-guard.md)
+* [Notes about Other Editors](editors/notes-about-editors/README.md)
+  * [RubyMine and WebStorm](editors/notes-about-editors/rubymine-and-webstorm.md)
 
 ## GraphQL
 
 * [Notes about GraphQL](graphql/notes-about-graphql/README.md)
+  * [Mutating an Object's State](graphql/notes-about-graphql/mutating-an-objects-state.md)
+  * [Adding methods to base GraphQL classes](graphql/notes-about-graphql/adding-methods-to-base-graphql-classes.md)
   * [TIL: GraphQL](graphql/notes-about-graphql/til-graphql.md)
+  * [Apollo client container for mutations](graphql/notes-about-graphql/apollo-client-container-for-mutations.md)
   * [Apollo graphql container with queries](graphql/notes-about-graphql/apollo-graphql-container-with-queries.md)
-* [Notes about Other Editors](graphql/notes-about-editors/README.md)
-  * [Apollo client container for mutations](graphql/notes-about-editors/apollo-client-container-for-mutations.md)
-  * [RubyMine and WebStorm](graphql/notes-about-editors/rubymine-and-webstorm.md)
-  * [Adding methods to base GraphQL classes](graphql/notes-about-editors/adding-methods-to-base-graphql-classes.md)
 
 ## Design
 
-* [Mutating an Object's State](design/mutating-an-objects-state.md)
 * [Notes on Design](design/notes-on-design/README.md)
   * [TIL: authenticating using the apollo client \(v1\)](design/notes-on-design/til-authenticating-using-the-apollo-client-v1.md)
   * [Design is Engineering, Engineering is Design](design/notes-on-design/design-is-engineering-engineering-is-design.md)
@@ -158,4 +158,9 @@
   * [TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
   * [Thoughts on Testing](miscellaneous-stuff/misc/2018-11-29-thoughts-on-writing-good-tests.md)
   * [Notes on Testing](miscellaneous-stuff/misc/testing.md)
+
+## Databases
+
+* [Notes on Postgresql](databases/notes-on-postgresql/README.md)
+  * [When Postgres won't start](databases/notes-on-postgresql/when-postgres-wont-start.md)
 
