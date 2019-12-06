@@ -2,11 +2,17 @@
 
 The Pantone colour of the year for 2020 is Classic Blue:
 
-<table>
-  <tbody>
-    <tr>
-      <td style="background-color: #0F4C81; min-width: 200px; min-height: 200px; color: white: font-weight: bold; font-size: 42px;">Classic<br/>Blue</td>
-    </tr>
-  </tbody>
-</table>
+![Pantone Classic Blue \#0F4C81, 2020 colour of the year](../../../.gitbook/assets/pantone-class-blue-0f4c81-2020coy.png)
+
+* Hex: `#0F4C81`
+* RGB: `rgb(15, 76, 129)`
+* CMYK: 100, 76, 25, 0
+
+### Links:
+
+* [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020)
+* [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-palette-exploration](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-palette-exploration)
+* [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-tools-for-designers](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-tools-for-designers)
+
+
 
