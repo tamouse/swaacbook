@@ -13,6 +13,9 @@ The Pantone colour of the year for 2020 is Classic Blue:
 * [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020)
 * [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-palette-exploration](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-palette-exploration)
 * [https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-tools-for-designers](https://www.pantone.com/color-intelligence/color-of-the-year/color-of-the-year-2020-tools-for-designers)
+* [https://www.pantone.com/color-finder/19-4052-TCX](https://www.pantone.com/color-finder/19-4052-TCX)
+
+
 
 
 
