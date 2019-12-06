@@ -46,6 +46,8 @@
 ## Design
 
 * [Notes on Design](design/notes-on-design/README.md)
+  * [Colour](design/notes-on-design/colour/README.md)
+    * [Pantone Colour of the Year 2020: Classic Blue](design/notes-on-design/colour/pantone-colour-of-the-year-2020-classic-blue.md)
   * [TIL: authenticating using the apollo client \(v1\)](design/notes-on-design/til-authenticating-using-the-apollo-client-v1.md)
   * [Design is Engineering, Engineering is Design](design/notes-on-design/design-is-engineering-engineering-is-design.md)
   * [Using Current User \(Viewer\) as root of GraphQL queries](design/notes-on-design/using-current-user-viewer-as-root-of-graphql-queries.md)
