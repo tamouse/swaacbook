@@ -1,4 +1,8 @@
-# Link: A new release of Jekyllpress
+---
+description: A utility to do some useful stuff with Jekyll sites.
+---
+
+# A new release of Jekyllpress
 
 * published date: 2015-03-08 21:14
 * keywords: \[“jekyll”, “jekyllpress”\]
