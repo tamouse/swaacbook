@@ -117,6 +117,7 @@
     * [Prefer \`:pluck\` to \`:map\`](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/prefer-pluck-to-map.md)
     * [first vs. take](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/first-vs.-take.md)
     * [Setting up Rails + React](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/setting-up-rails-+-react.md)
+    * [Passing the Time between Rails and React.js](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/passing-the-time-between-rails-and-react.js.md)
     * [Calling Controller actions from the console](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/calling-controller-actions-from-the-console.md)
     * [getting the end of the month, end of the year, etc](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/getting-the-end-of-the-month-end-of-the-year-etc.md)
     * [Making records immutable](ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/making-records-immutable.md)
