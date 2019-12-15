@@ -168,3 +168,9 @@
 * [Notes on Postgresql](databases/notes-on-postgresql/README.md)
   * [When Postgres won't start](databases/notes-on-postgresql/when-postgres-wont-start.md)
 
+## unsorted
+
+* [Unsorted Articles](unsorted/unsorted-articles/README.md)
+  * [TIL: Setting \`window.location\` during Jest testing](unsorted/unsorted-articles/til-setting-window.location-during-jest-testing.md)
+  * [TIL: The input\[type=file\] element has an accepts attribute](unsorted/unsorted-articles/til-the-input-type-file-element-has-an-accepts-attribute.md)
+
