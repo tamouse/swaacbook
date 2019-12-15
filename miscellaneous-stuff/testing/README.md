@@ -6,7 +6,13 @@ Testing strategies, tools, frameworks, etc., have grown and changed over the yea
 
 ### Links
 
-* [Martin Fowler Testing Collection](https://martinfowler.com/testing/)
+* > ## [Software Testing Guide](https://martinfowler.com/testing/) by Martin Fowler
+  >
+  > "I grew up in the [waterfall era](https://martinfowler.com/bliki/WaterfallProcess.html), where testing was seen as a separate activity to programming, done by a different group of people, and carried out after programming was done. The shift towards iterative and agile approaches, particularly the influence of [Extreme Programming](https://martinfowler.com/bliki/ExtremeProgramming.html), has changed the role of testing - raising its importance, and integrating it with the core development work.
+  >
+  >
+  >
+  > "At the core of my philosophy to testing is that we want to write [self-testing code](https://martinfowler.com/bliki/SelfTestingCode.html), meaning we have a suite of automated tests that be easily run against the code base. We should be confident that this suite will catch almost all bugs in the software, so that when this suite “goes green” \(passes\), we can release that version of the software into production. This kind of environment can both drastically improve the robustness of our software, but also enables us to use [refactoring](https://refactoring.com) to improve our productivity and responsiveness in the coming months."
 
 ## See also
 
