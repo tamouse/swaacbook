@@ -1,7 +1,5 @@
 # TIL: The input\[type=file\] element has an accepts attribute
 
-
-
 ## TIL: The `input[type=file]` element has an `accepts` attribute
 
 * Time-stamp: &lt;2018-11-20 00:30:53 tamara&gt;
