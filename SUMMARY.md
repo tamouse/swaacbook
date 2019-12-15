@@ -106,6 +106,7 @@
 
 * [Notes on Ruby and Rails](ruby-and-rails/ruby-and-rails/README.md)
   * [Links](ruby-and-rails/ruby-and-rails/links.md)
+  * [Prefer \`.use\_zone\` to \`.zone=\`](ruby-and-rails/ruby-and-rails/prefer-.use_zone-to-.zone.md)
   * [Ruby One-liners](ruby-and-rails/ruby-and-rails/ruby-one-liners.md)
   * [Dealing with mixed encodings in a file](ruby-and-rails/ruby-and-rails/dealing-with-mixed-encodings-in-a-file.md)
   * [A new release of Jekyllpress](ruby-and-rails/ruby-and-rails/link-a-new-release-of-jekyllpress.md)

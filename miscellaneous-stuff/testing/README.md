@@ -14,6 +14,10 @@ Testing strategies, tools, frameworks, etc., have grown and changed over the yea
   >
   > "At the core of my philosophy to testing is that we want to write [self-testing code](https://martinfowler.com/bliki/SelfTestingCode.html), meaning we have a suite of automated tests that be easily run against the code base. We should be confident that this suite will catch almost all bugs in the software, so that when this suite “goes green” \(passes\), we can release that version of the software into production. This kind of environment can both drastically improve the robustness of our software, but also enables us to use [refactoring](https://refactoring.com) to improve our productivity and responsiveness in the coming months."
 
+* > ### [Testing Library](https://testing-library.com/) \(for JavaScript\) - Kent C. Dodds and friends
+  >
+  > The Testing Library family of libraries is a very light-weight solution for testing without all the implementation details. The main utilities it provides involve querying for nodes similarly to how users would find them. In this way, testing-library helps ensure your tests give you confidence in your UI code.
+
 ## See also
 
 * [Generating consistent faker values for testing](../../javascript/javascript/intro/2019-08-17-generating-consistent-faker-values-for-testing.md)
