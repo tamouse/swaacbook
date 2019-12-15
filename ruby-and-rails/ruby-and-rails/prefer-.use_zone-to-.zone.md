@@ -1,3 +1,7 @@
+---
+description: Rails better practice for dealing with altering the current process's timezone
+---
+
 # Prefer \`.use\_zone\` to \`.zone=\`
 
 I had thought to write a post on this, but never got around to it.
@@ -12,6 +16,7 @@ Time.use_zone(current_user.timezone) do
   # current user's timezone setting.
   
   Time.current # The current time in the current user's timezone
+  Time.zone.now # Equivalent to the above
 end
 ```
 
