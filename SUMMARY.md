@@ -159,8 +159,8 @@
   * [Link: Baratunde Thurston Explains Web Encryption](miscellaneous-stuff/misc/baratunde-thurston-explains-web-encryption.md)
   * [code as literature, software dev as communication](miscellaneous-stuff/misc/code-as-literature-software-dev-as-communication.md)
   * [TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
-  * [Thoughts on Testing](miscellaneous-stuff/misc/2018-11-29-thoughts-on-writing-good-tests.md)
-  * [Notes on Testing](miscellaneous-stuff/misc/testing.md)
+* [Notes on Testing](miscellaneous-stuff/testing/README.md)
+  * [Thoughts on Testing](miscellaneous-stuff/testing/2018-11-29-thoughts-on-writing-good-tests.md)
 
 ## Databases
 
