@@ -17,6 +17,10 @@ Testing strategies, tools, frameworks, etc., have grown and changed over the yea
 ## See also
 
 * [Generating consistent faker values for testing](../../javascript/javascript/intro/2019-08-17-generating-consistent-faker-values-for-testing.md)
+* [Testing React Checkbox Component](../../javascript/javascript/react-notes/testing-react-checkbox-component.md)
+* [Rails Testing](../../ruby-and-rails/ruby-and-rails/rails-testing/)
+* [Setting up Rails + React](../../ruby-and-rails/ruby-and-rails/rails-best-practices-maybe/setting-up-rails-+-react.md)
+* [Jest and Friends](../../javascript/javascript/jest-and-friends/)
 
 
 
