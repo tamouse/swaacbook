@@ -75,6 +75,7 @@
 
 * [Notes on JavaScript](javascript/javascript/README.md)
   * [Notes on JavaScript](javascript/javascript/intro/README.md)
+    * [TIL: The input\[type=file\] element has an accepts attribute](javascript/javascript/intro/til-the-input-type-file-element-has-an-accepts-attribute.md)
     * [JavaScript exercises and examples](javascript/javascript/intro/javascript-exercises-and-examples.md)
     * [TIL: jQuery attr vs. prop](javascript/javascript/intro/2019-05-02-til-jquery-attr-vs-prop.md)
     * [Generating consistent faker values for testing](javascript/javascript/intro/2019-08-17-generating-consistent-faker-values-for-testing.md)
@@ -162,6 +163,7 @@
   * [TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
 * [Notes on Testing](miscellaneous-stuff/testing/README.md)
   * [Thoughts on Testing](miscellaneous-stuff/testing/2018-11-29-thoughts-on-writing-good-tests.md)
+  * [TIL: Setting \`window.location\` during Jest testing](miscellaneous-stuff/testing/til-setting-window.location-during-jest-testing.md)
 
 ## Databases
 
@@ -170,7 +172,5 @@
 
 ## unsorted
 
-* [Unsorted Articles](unsorted/unsorted-articles/README.md)
-  * [TIL: Setting \`window.location\` during Jest testing](unsorted/unsorted-articles/til-setting-window.location-during-jest-testing.md)
-  * [TIL: The input\[type=file\] element has an accepts attribute](unsorted/unsorted-articles/til-the-input-type-file-element-has-an-accepts-attribute.md)
+* [Unsorted Articles](unsorted/unsorted-articles.md)
 
