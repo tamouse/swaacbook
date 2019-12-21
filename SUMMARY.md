@@ -139,6 +139,12 @@
 * [Notes on Git, GitHub, GitLab, etc](git-and-friends/notes-on-git-github-gitlab-etc/README.md)
   * [Git](git-and-friends/notes-on-git-github-gitlab-etc/git.md)
 
+## Testinng
+
+* [Notes on Testing](testinng/testing/README.md)
+  * [Thoughts on Testing](testinng/testing/2018-11-29-thoughts-on-writing-good-tests.md)
+  * [TIL: Setting \`window.location\` during Jest testing](testinng/testing/til-setting-window.location-during-jest-testing.md)
+
 ## Systems, Ops, and DevOps
 
 * [Systems, Operations, and Devops](systems-ops-and-devops/systems-operations-and-devops/README.md)
@@ -161,9 +167,6 @@
   * [Link: Baratunde Thurston Explains Web Encryption](miscellaneous-stuff/misc/baratunde-thurston-explains-web-encryption.md)
   * [code as literature, software dev as communication](miscellaneous-stuff/misc/code-as-literature-software-dev-as-communication.md)
   * [TIL: Changing the “Return To Shop” link and text in an empty WooCommerce cart](miscellaneous-stuff/misc/changing-the-return-to-shop-link-and-text-in-an-empty-woocommerce-cart.md)
-* [Notes on Testing](miscellaneous-stuff/testing/README.md)
-  * [Thoughts on Testing](miscellaneous-stuff/testing/2018-11-29-thoughts-on-writing-good-tests.md)
-  * [TIL: Setting \`window.location\` during Jest testing](miscellaneous-stuff/testing/til-setting-window.location-during-jest-testing.md)
 
 ## Databases
 
