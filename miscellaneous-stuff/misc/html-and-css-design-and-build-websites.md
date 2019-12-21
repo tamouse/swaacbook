@@ -1,0 +1,17 @@
+
+# Table of Contents
+
+1.  [Link: HTML and CSS: Design and Build Websites](#link-html-and-css-design-and-build-websites)
+
+
+<a id="link-html-and-css-design-and-build-websites"></a>
+
+# Link: HTML and CSS: Design and Build Websites
+
+-   published date: 2016-06-16 08:16
+-   keywords: ["book", "css", "html", "learning", "link"]
+-   source:
+-   link: {"href"=>"<https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189?ie=UTF8&/Version/=1&/entries/=0>", "title"=>"HTML and CSS: Design and Build Websites", "date"=>"","author"=>{"name"=>"Jon Ducket","url"=>"<https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I/ref=dp_byline_cont_book_1>"}}
+
+Recommended at GDI HTML and CSS courses.
+

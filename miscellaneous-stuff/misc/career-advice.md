@@ -1,25 +1,35 @@
+
+# Table of Contents
+
+1.  [Career Advice](#career-advice)
+
+
+<a id="career-advice"></a>
+
 # Career Advice
 
-* published date: 2014-07-12 13:56:33 -0500
-* keywords: \[“advice”, “careers”, “programming”, “strategies”, “swaac”\]
+-   published date: 2014-07-12 13:56:33 -0500
+-   keywords: ["advice", "careers", "programming", "strategies", "swaac"]
+-   source:
+-   redirect<sub>from</sub>: ["*blog/2014/07/12/career-advice*"]
 
-Something that comes up quite often on IRC is the question: “How do I get a job programming Ruby?”, usually from people new to programming. I decided to post my response.
+Something that comes up quite often on IRC is the question: "How do I get a job programming Ruby?", usually from people new to programming. I decided to post my response.
 
-1. Get a [github](https://github.com/) account.
-2. Contribute to open source projects on github.
-3. Build a portfolio on your github account:
-   * Project contributions
-   * Your own projects
-   * Use [Github Pages](https://pages.github.com/) to show what you are learning
-   * Use [gists](https://gist.github.com/) liberally to show snippets of work, scripts, one-liners, etc
-4. Attend local events, network with people you want to work with.
-5. Help out at local events. If there are no events local to you start one.
-6. Do [informational interviews](https://duckduckgo.com/?q=informational+interviewing).
-7. Attend [conferences](http://rubyconferences.org/) , help out at conferences.
-8. Help people on IRC, StackOverflow, etc.
+1.  Get a [github](https://github.com) account.
+2.  Contribute to open source projects on github.
+3.  Build a portfolio on your github account:
+    -   Project contributions
+    -   Your own projects
+    -   Use [Github Pages](https://pages.github.com) to show what you are learning
+    -   Use [gists](https://gist.github.com) liberally to show snippets of work, scripts, one-liners, etc
 
-**IOW**: Build a solid reputation that sells you.
+4.  Attend local events, network with people you want to work with.
+5.  Help out at local events. If there are no events local to you start one.
+6.  Do [informational interviews](https://duckduckgo.com/?q=informational+interviewing).
+7.  Attend [conferences](http://rubyconferences.org/) , help out at conferences.
+8.  Help people on IRC, StackOverflow, etc.
 
-**AND**: don’t say “I can’t” to these, the main thing about becoming a programmer is solving problems. This is just another kind of problem, figure out how to solve it.  
+**IOW**: Build a solid reputation that sells *you*.
 
+**AND**: don't say "I can't" to these, the main thing about becoming a programmer is *solving problems*. This is just another kind of problem, figure out how to solve it.
 
