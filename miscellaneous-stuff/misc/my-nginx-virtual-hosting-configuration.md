@@ -5,7 +5,9 @@ Nginx's configuration documentation requires a fair amount of digging to put the
 This configuration is by no means unique, special, or anything other than a thing I cobbled together and that works for my needs.
 
 ```
-# -*- nginx -*- # This is a generic virtual host file, it will map vhosts onto # the appropriate subdirectory
+# -*- nginx -*- 
+# This is a generic virtual host file, it will map vhosts onto 
+# the appropriate subdirectory
 
 server {
 
@@ -65,5 +67,5 @@ This sets up a structure that recognizes virtual hosts and points them to a dire
 
 On my server, I've also further symlinked `/var/www/swaac.tamouse.org` to `/home/tamara/Sites/tamouse.org/swaac` which holds the actual static site files, and is writeable by my user without any need to go superuser.
 
-Further discussion about how I deploy to these sites using git can be found at [Using Git to Deploy Static Sites](%7B%%20post_url%202016-01-13-using-git-to-deploy-static-sites%20%%7D)
+Further discussion about how I deploy to these sites using git can be found at [Using Git to Deploy Static Sites](2016-01-13-using-git-to-deploy-static-sites.md)
 
