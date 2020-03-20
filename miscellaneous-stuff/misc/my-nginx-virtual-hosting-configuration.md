@@ -1,24 +1,13 @@
-
-# Table of Contents
-
-1.  [My nginx Virtual Hosting Configuration](#my-nginx-virtual-hosting-configuration)
-
-
-<a id="my-nginx-virtual-hosting-configuration"></a>
-
-# My nginx Virtual Hosting Configuration
-
--   published date: 2016-09-25 13:29
--   keywords: ["configuration", "devops", "nginx", "static-site", "virtualhosts", "web-hosting"]
--   source:
-
 I've been running my static sites using [nginx](http://nginx.com) for ages, it seems, and I came upon a pretty useful nginx configuration that doesn't require changing much to put up a new static site.
 
 Nginx's configuration documentation requires a fair amount of digging to put the whole thing together, but there have also been generous folks who blog about their configuration work, triumphs and tribulations.
 
 This configuration is by no means unique, special, or anything other than a thing I cobbled together and that works for my needs.
 
-\`\`\`nginx linenos # -*- nginx -*- # This is a generic virtual host file, it will map vhosts onto # the appropriate subdirectory
+```
+# -*- nginx -*- 
+# This is a generic virtual host file, it will map vhosts onto 
+# the appropriate subdirectory
 
 server {
 
@@ -69,7 +58,8 @@ server {
     fastcgi_pass unix:/var/run/php5-fpm.sock;
     }
 
-} \`\`\`
+}
+```
 
 I originally had the static file caching in place, but since I mainly post blog updates that are static, it was always forcing readers to refresh my pages in their browsers. I get such small amounts of traffic that just serving the static pages hasn't really made any difference to my overall site performance, and everyone always gets fresh content.
 
@@ -77,5 +67,5 @@ This sets up a structure that recognizes virtual hosts and points them to a dire
 
 On my server, I've also further symlinked `/var/www/swaac.tamouse.org` to `/home/tamara/Sites/tamouse.org/swaac` which holds the actual static site files, and is writeable by my user without any need to go superuser.
 
-Further discussion about how I deploy to these sites using git can be found at [Using Git to Deploy Static Sites](%7B%%20post_url%202016-01-13-using-git-to-deploy-static-sites%20%%7D)
+Further discussion about how I deploy to these sites using git can be found at [Using Git to Deploy Static Sites](2016-01-13-using-git-to-deploy-static-sites.md)
 
